@@ -1,0 +1,2156 @@
+[
+  {
+    "id": 1,
+    "proveedor": "LABORATORIOS EL MANA COLO",
+    "nombre": "BRONQUISAN TABLETAS MASTICABLES 6 SBS",
+    "precio_farmacia": 11437.0,
+    "ean": "7707237630347",
+    "funcion": "Antitusivo a base de plantas (masticable) para aliviar la tos y molestias respiratorias leves.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 2,
+    "proveedor": "D CRISTAL LTDA.",
+    "nombre": "BIBERON CRISTAL CORRIENTE 5 OZ",
+    "precio_farmacia": 5469.0,
+    "ean": "7707101103243",
+    "funcion": "Biberón para alimentación de bebés.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 3,
+    "proveedor": "NEWFOUNDLAND DIAGNOSTICS",
+    "nombre": "PRUEBA RAPIDA ANTIGENO H.PYLORI(SAV)",
+    "precio_farmacia": 32073.0,
+    "ean": "6936983120029",
+    "funcion": "Prueba rápida de diagnóstico para detectar la bacteria H. pylori, asociada a gastritis y úlceras.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 4,
+    "proveedor": "MB TECH DE COLOMBIA S.A.S",
+    "nombre": "CONJ. LINO F/UNION C/CALIDO DAMA T.8(S)",
+    "precio_farmacia": 110354.0,
+    "ean": "7708838863516",
+    "funcion": "Conjunto de ropa en lino (prenda de vestir, no es un medicamento).",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 5,
+    "proveedor": "DEPOSITO DE DROGAS MONACO",
+    "nombre": "KENACORT I.A.10 MG 5 ML AMPOLLA",
+    "precio_farmacia": 36252.0,
+    "ean": "8027950200245",
+    "funcion": "Corticoide inyectable (triamcinolona) antiinflamatorio de uso intraarticular o dermatológico.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 6,
+    "proveedor": "INTERBEL S.A.S",
+    "nombre": "LOCION REFRESC. CANNABIS INTERBEL 120 ML",
+    "precio_farmacia": 7976.0,
+    "ean": "7707223660341",
+    "funcion": "Loción tópica a base de cannabis/cáñamo para alivio muscular y sensación refrescante.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 7,
+    "proveedor": "BOIRON S.A.S.",
+    "nombre": "QUIETUDE JARABE 200 ML (PDC)",
+    "precio_farmacia": 83368.0,
+    "ean": "7702207158012",
+    "funcion": "Producto homeopático usado tradicionalmente para favorecer la relajación y el sueño.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 8,
+    "proveedor": "COMESTIBLES YA S.A.S",
+    "nombre": "ACEITE DE OLIVA ANDALUZ PURO 500 ML",
+    "precio_farmacia": 24399.0,
+    "ean": "7707206420375",
+    "funcion": "Aceite de oliva de uso alimenticio.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 9,
+    "proveedor": "STARBRANDS COLOMBIA SAS",
+    "nombre": "HENNA PRO COLORS REVERS 30 ML LIGHT BROW",
+    "precio_farmacia": 11604.0,
+    "ean": "5902815167365",
+    "funcion": "Tinte capilar semipermanente a base de henna.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 10,
+    "proveedor": "LEMAITRE PERFUMERIA & JAB",
+    "nombre": "JABON AZUFRE CARBON ACTIVADO 100 GR",
+    "precio_farmacia": 7505.0,
+    "ean": "7702118661861",
+    "funcion": "Jabón con azufre y carbón activado, usado para piel grasa y propensa al acné.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 11,
+    "proveedor": "HEEL COLOMBIA LTDA",
+    "nombre": "ENTERO BALANCE 10 SOBRES",
+    "precio_farmacia": 59524.0,
+    "ean": "7707336723650",
+    "funcion": "Suplemento dietario con probióticos, prebióticos , zinc, potasio, sodio y glucosa. Entero-Balance® es es un exclusivo simbiótico con zinc y electrolitos, que combate la diarrea y...",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": 97900.0,
+      "farmatodo": null
+    },
+    "_la_rebaja_metodo_match": "ean",
+    "_la_rebaja_descripcion": "Suplemento dietario con probióticos, prebióticos , zinc, potasio, sodio y glucosa. \r\n Entero-Balance® es es un exclusivo simbiótico con zinc y electrolitos, que combate la \r\n diarrea y previene la disbiosis intestinal \r\n • Está compuesto por está compuesto por la cepa probiótica Lactobacillus rhamnosus GG \r\n con 10 billones de unidades formadoras de colonias (UFCs) + fibra prebiótica (FOS) + \r\n 10mg Zinc + electrolitos",
+    "_la_rebaja_principio_activo": "0 NO CODIFICADO 0",
+    "funcion_fuente": "drogueria_competencia"
+  },
+  {
+    "id": 12,
+    "proveedor": "PRODUCTOS MEDICOS FARMA.D",
+    "nombre": "PRUEBA OVULACION TIPO TIRA UNITEST",
+    "precio_farmacia": 15092.0,
+    "ean": "7707365621040",
+    "funcion": "Prueba casera de ovulación que detecta el pico de LH para identificar días fértiles.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 13,
+    "proveedor": "ICARO DPG GROUP S.A.S.",
+    "nombre": "OBS.ICARO PENDON(INTERACTIVO)X1+FIC.7NUM",
+    "precio_farmacia": 1.0,
+    "ean": "7704768002285",
+    "funcion": "Artículo promocional/coleccionable (pendón), no es un medicamento.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 14,
+    "proveedor": "NOVADERMA S.A.",
+    "nombre": "CHA.OCTODIR 120 ML",
+    "precio_farmacia": 63023.0,
+    "ean": "7707206279515",
+    "funcion": "Champú de uso dermatológico para el cuidado del cuero cabelludo.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 15,
+    "proveedor": "OFIX SUMINISTROS Y LOGIST",
+    "nombre": "PAPEL FOTOCOPIA REPROGRAF OFICIO",
+    "precio_farmacia": 18337.0,
+    "ean": "7702148000050",
+    "funcion": "Papel de fotocopia para oficina, no es un medicamento.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 16,
+    "proveedor": "LAB. BLOFARMA DE COLOMBIA",
+    "nombre": "ACEITE DR.SANA ALMENDRAS NATURAL 120 ML",
+    "precio_farmacia": 3626.0,
+    "ean": "7707231003062",
+    "funcion": "Aceite corporal humectante de almendras.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 17,
+    "proveedor": "IPCA LAB. LIMITED",
+    "nombre": "DICHLOR 25 MG 30TABLETAS",
+    "precio_farmacia": 67247.0,
+    "ean": "8901079017925",
+    "funcion": "Antiinflamatorio/analgésico (diclofenaco) para dolor e inflamación.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 18,
+    "proveedor": "LAFONT DE COLOMBIA",
+    "nombre": "JABON LIQUIDO LAFONT MANZANA 300 ML",
+    "precio_farmacia": 9091.0,
+    "ean": "7707236520144",
+    "funcion": "Jabón líquido corporal aroma a manzana.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 19,
+    "proveedor": "ALCON DE COLOMBIA S.A",
+    "nombre": "ALCAINE SOLUCION OFTALMICA 15 ML(R)(SAV)",
+    "precio_farmacia": 96136.0,
+    "ean": "300650016179",
+    "funcion": "Anestésico tópico ocular usado en procedimientos oftalmológicos, bajo indicación profesional.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 20,
+    "proveedor": "HAIKO NATURAL S.A.S.",
+    "nombre": "GEL ANTIEDAD ALGAS MARINAS 50 ML HAIKO",
+    "precio_farmacia": 39454.0,
+    "ean": "7707314970038",
+    "funcion": "Gel cosmético antiedad a base de algas marinas.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 21,
+    "proveedor": "RAMIREZ DE DIAZ MAGDALENA",
+    "nombre": "TUMBACALLO LIBERTADOR GDE",
+    "precio_farmacia": 16320.0,
+    "ean": "7709995000288",
+    "funcion": "Producto tópico (callicida) para eliminar callos y durezas en la piel.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 22,
+    "proveedor": "ETERNA S.A.",
+    "nombre": "CATETER ETERNA INTRAVENOSO 18 G",
+    "precio_farmacia": 1388.0,
+    "ean": "7702037102056",
+    "funcion": "Catéter intravenoso: dispositivo médico para acceso venoso periférico.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 23,
+    "proveedor": "PHARMADERM S.A",
+    "nombre": "HYDROCLOR UNGUENTO 500 GR",
+    "precio_farmacia": 76543.0,
+    "ean": "7707222420199",
+    "funcion": "Ungüento tópico usado para aliviar picazón e irritación en la piel (uso bajo indicación).",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 24,
+    "proveedor": "SUPLIMOS LTDA",
+    "nombre": "CINTA ENMASC.HYSTIK 24 MM 1P.40 MTS",
+    "precio_farmacia": 3961.0,
+    "ean": "721672006229",
+    "funcion": "Cinta de enmascarar de uso general/oficina, no es un medicamento.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 25,
+    "proveedor": "NOVAMED S.A.",
+    "nombre": "EZETIMIBA 10 MG 30 TABS (P)124713",
+    "precio_farmacia": 56282.0,
+    "ean": "7703546134118",
+    "funcion": "Medicamento para reducir el colesterol (inhibe su absorción intestinal).",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 26,
+    "proveedor": "FRESENIUS KABI COLOMBIA S",
+    "nombre": "DIBEN DRINK VAINILLA 200 ML",
+    "precio_farmacia": 10751.0,
+    "ean": "7709154676750",
+    "funcion": "Suplemento nutricional líquido bajo en carbohidratos, formulado para personas con diabetes.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": 12100.0,
+      "farmatodo": null
+    },
+    "_la_rebaja_metodo_match": "ean",
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 27,
+    "proveedor": "LAB.SAENZ S.A",
+    "nombre": "REMOVEDOR ANDREA 75 ML",
+    "precio_farmacia": 2964.0,
+    "ean": "7705513002543",
+    "funcion": "Removedor de esmalte de uñas.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 28,
+    "proveedor": "MASTERFOODS COLOMBIA",
+    "nombre": "TWIX BARRA DE GALLETA Y CARAM 50.7 GR",
+    "precio_farmacia": 3995.0,
+    "ean": "40000514206",
+    "funcion": "Snack de chocolate y galleta, no es un medicamento.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 29,
+    "proveedor": "ADIUM S.A.S.",
+    "nombre": "GESLUTIN 200 MG 30 CAPSULAS (PAE)",
+    "precio_farmacia": 255612.0,
+    "ean": "7730979096973",
+    "funcion": "Progesterona micronizada, usada en tratamientos de fertilidad y durante el embarazo, con fórmula médica.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 30,
+    "proveedor": "EXELTIS S.A.S",
+    "nombre": "GYNOTRAN 7 OVULOS",
+    "precio_farmacia": 67878.0,
+    "ean": "7501303437003",
+    "funcion": "Óvulos vaginales para el tratamiento de infecciones ginecológicas.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 31,
+    "proveedor": "MERCK SHARP & DOHME COLOM",
+    "nombre": "JANUMET 50/850MG 56(P)118048(SC)(SF)SAV)",
+    "precio_farmacia": 110376.0,
+    "ean": "7702502021684",
+    "funcion": "Antidiabético oral (metformina + sitagliptina) para diabetes tipo 2.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": 124100.0,
+      "farmatodo": null
+    },
+    "_la_rebaja_metodo_match": "ean",
+    "_la_rebaja_principio_activo": "METFORMINA, SITAGLIPTINA",
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 32,
+    "proveedor": "NOVARTIS DE COLOMBIA S.A.",
+    "nombre": "SANDIMMUN NEORAL 100MG 50CAP(E)(P)493850",
+    "precio_farmacia": 404275.0,
+    "ean": "7702635195566",
+    "funcion": "Inmunosupresor (ciclosporina) usado en trasplantes o enfermedades autoinmunes, con fórmula médica.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 33,
+    "proveedor": "D MARTINE COMPANY SAS",
+    "nombre": "TAPABOCA TERMOSELLADO DMARTINE 50 UND EI",
+    "precio_farmacia": 8346.0,
+    "ean": "7708124438312",
+    "funcion": "Tapabocas termosellado para protección respiratoria.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 34,
+    "proveedor": "LAB. GERCO S.A.",
+    "nombre": "FORZ SPORT GEL FRIO 12 SBS 12GR",
+    "precio_farmacia": 41561.0,
+    "ean": "7707210531890",
+    "funcion": "Gel de efecto frío para golpes y dolores musculares.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 35,
+    "proveedor": "L ISAZA PENA E HIJA DE FA",
+    "nombre": "CREMA PENA CONTRA BARROS Y ESPINI.15 GR",
+    "precio_farmacia": 13307.0,
+    "ean": "7703377000088",
+    "funcion": "Crema tópica para el tratamiento del acné (barros y espinillas).",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 36,
+    "proveedor": "BARDOT S.A.",
+    "nombre": "PESTANINA BARDOT MAXI BENEFICIOS FUCSIA",
+    "precio_farmacia": 11832.0,
+    "ean": "7703799346542",
+    "funcion": "Máscara de pestañas (cosmético).",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 37,
+    "proveedor": "DISPROVEN S.A.S",
+    "nombre": "ESPONJA COSMETICA NO LATEX ZAFHIRS",
+    "precio_farmacia": 2231.0,
+    "ean": "7702313027639",
+    "funcion": "Esponja cosmética para aplicación de maquillaje.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 38,
+    "proveedor": "AULEN PHARMA S.A.",
+    "nombre": "LIBERTRIM SII 200 MG/75 MG 24 T (3%+)",
+    "precio_farmacia": 80436.0,
+    "ean": "7707271451250",
+    "funcion": "Tratamiento para el síndrome de intestino irritable (antiespasmódico digestivo).",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 39,
+    "proveedor": "ABBVIE S.A.S.",
+    "nombre": "ALBASOL SOLUCION OFTALMICA 15 ML",
+    "precio_farmacia": 38024.0,
+    "ean": "7707236671549",
+    "funcion": "Solución oftálmica para el alivio de molestias e irritación ocular.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 40,
+    "proveedor": "CONFITECA COLOMBIA S.A",
+    "nombre": "CHICLE TUMIX TROPICAL 2 PAST.100 UND",
+    "precio_farmacia": 8283.0,
+    "ean": "7703888298707",
+    "funcion": "Chicle sabor tropical, no es un medicamento.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 41,
+    "proveedor": "VON HALLER LTDA",
+    "nombre": "NISTAVON CREMA 20 GR",
+    "precio_farmacia": 16280.0,
+    "ean": "7706324001046",
+    "funcion": "Crema antimicótica (nistatina) para infecciones por hongos en la piel.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 42,
+    "proveedor": "BAXTER S.A.",
+    "nombre": "DEXTROSA 5% AD 500 ML ARB0063",
+    "precio_farmacia": 3417.0,
+    "ean": "7707141348970",
+    "funcion": "Solución intravenosa de dextrosa al 5%, usada para hidratación y aporte de energía.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": 7400.0,
+      "farmatodo": null
+    },
+    "_la_rebaja_metodo_match": "ean",
+    "_la_rebaja_principio_activo": "DEXTROSA",
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 43,
+    "proveedor": "MEGA LIFESCIENCES COLOMBI",
+    "nombre": "OBS MEGA LIF. LOREZE 10 CAPS BLANDAS",
+    "precio_farmacia": 0.0,
+    "ean": "8850769026641",
+    "funcion": "Suplemento en cápsulas blandas.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 44,
+    "proveedor": "FUNDACION LABORATORIO DE",
+    "nombre": "HOJAS DE TOMATE 120 ML",
+    "precio_farmacia": 15424.0,
+    "ean": "7707176461132",
+    "funcion": "Producto fitoterapéutico tradicional en gotas a base de hojas de tomate.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 45,
+    "proveedor": "COMERC. COLOMBIANA SUPER",
+    "nombre": "SUPERCOCO TURRON BOLSA 50 UND",
+    "precio_farmacia": 7860.0,
+    "ean": "7702993030639",
+    "funcion": "Confite/turrón de coco, no es un medicamento.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 46,
+    "proveedor": "EVE DISTRIBUCIONES S.A.",
+    "nombre": "UROCUAD 100 MG 30 TABLETAS",
+    "precio_farmacia": 13601.0,
+    "ean": "7702092002728",
+    "funcion": "Medicamento de uso urológico.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 47,
+    "proveedor": "EMPAQUES VIDAPACK S.A.S.",
+    "nombre": "BOLSA PAPEL KRAFT ICOM 29X13 4 LB 100UND",
+    "precio_farmacia": 5445.0,
+    "ean": "7709775293619",
+    "funcion": "Bolsa de empaque en papel kraft, no es un medicamento.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 48,
+    "proveedor": "ALTHEON LIFE S.A.S.",
+    "nombre": "BIOLANE PROTE SOLAR BEBE SPF50 CRE 200ML",
+    "precio_farmacia": 126176.0,
+    "ean": "3286010096708",
+    "funcion": "Protector solar SPF50 formulado para piel de bebé.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 49,
+    "proveedor": "GLAXO SMITHKLINE COLOMBIA",
+    "nombre": "NARAMIG 2.5MG 7 TBS(3%+)(P)57618(SC)(SF)",
+    "precio_farmacia": 52229.0,
+    "ean": "7707172689462",
+    "funcion": "Medicamento (naratriptán) para el tratamiento agudo de la migraña.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": 61900.0,
+      "farmatodo": null
+    },
+    "_la_rebaja_metodo_match": "ean",
+    "_la_rebaja_principio_activo": "NARATRIPTAN TAB CAP",
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 50,
+    "proveedor": "FARMACOL CHINOIN SAS",
+    "nombre": "ESOMEPRAZOL 20 MG 30 CAPSULAS",
+    "precio_farmacia": 27624.0,
+    "ean": "7709102493491",
+    "funcion": "Inhibidor de bomba de protones para acidez estomacal y reflujo gástrico.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 51,
+    "proveedor": "GRUPO RAYCALL COL S.A.S.",
+    "nombre": "SALBUMED 100MCG AEROSOL 200 DOSIS(SAV)",
+    "precio_farmacia": 8161.0,
+    "ean": "8901117247888",
+    "funcion": "Broncodilatador inhalado (salbutamol) para el asma y otras afecciones respiratorias.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 52,
+    "proveedor": "EPIDERMIQUE S.A.",
+    "nombre": "SERUM ILUMINADO C ECLARIFIE 30ML (SAV)",
+    "precio_farmacia": 90753.0,
+    "ean": "7707368240521",
+    "funcion": "Sérum facial cosmético con efecto iluminador.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 53,
+    "proveedor": "MONDELEZ COLOMBIA S.A.S",
+    "nombre": "TRIDENT 5S MENTA POS DISPLAY 18 UD 8.5G",
+    "precio_farmacia": 19590.0,
+    "ean": "7622201776657",
+    "funcion": "Chicle sin azúcar sabor menta, no es un medicamento.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 54,
+    "proveedor": "LAB. LEGRAND S.A.",
+    "nombre": "ANIME 100 MG 4 TABLETAS",
+    "precio_farmacia": 20816.0,
+    "ean": "7704039118141",
+    "funcion": "Relajante muscular/analgésico para el alivio de dolores musculares.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 55,
+    "proveedor": "TRIDEX S.A.",
+    "nombre": "ROCICREAM 1% CLOTRI CR VAGINAL 40G 6 APL",
+    "precio_farmacia": 13214.0,
+    "ean": "7707263005874",
+    "funcion": "Crema vaginal antimicótica (clotrimazol) para infecciones por hongos.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 56,
+    "proveedor": "BOEHRINGER INGELHEIM",
+    "nombre": "JARDIANCE DUO 12.5/1000MG 60 TBS(A)(PAE)",
+    "precio_farmacia": 196916.0,
+    "ean": "4048846023650",
+    "funcion": "Antidiabético oral (empagliflozina + metformina) para diabetes tipo 2.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": 197900.0,
+      "farmatodo": null
+    },
+    "_la_rebaja_metodo_match": "ean",
+    "_la_rebaja_principio_activo": "EMPAGLIFLOZINA TAB-CAP, METFORMINA",
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 57,
+    "proveedor": "ABBOTT LABORATORIES S.A",
+    "nombre": "SIMILAC NEOSURE HMO 370 GR",
+    "precio_farmacia": 98462.0,
+    "ean": "8427030003658",
+    "funcion": "Fórmula láctea especializada para bebés prematuros o de bajo peso al nacer.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 58,
+    "proveedor": "LAB.DROFARMA S.A.S",
+    "nombre": "JOINLEV 10 TBS",
+    "precio_farmacia": 177934.0,
+    "ean": "7709365906394",
+    "funcion": "Suplemento para el cuidado de las articulaciones.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 59,
+    "proveedor": "PISA FARMACEUTICAL DE COL",
+    "nombre": "ELECTROLIT HIDRATANTE JAMAICA 625 ML",
+    "precio_farmacia": 7743.0,
+    "ean": "7501125185182",
+    "funcion": "Suero de rehidratación oral con electrolitos, para reponer líquidos y sales minerales.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": 8900.0,
+      "farmatodo": null
+    },
+    "_la_rebaja_metodo_match": "ean",
+    "_la_rebaja_principio_activo": "CLORURO DE SODIO",
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 60,
+    "proveedor": "C.I. DIGI COSMETICS COLOM",
+    "nombre": "GEL FIJADOR ROLDA AZUL 500 GR",
+    "precio_farmacia": 10637.0,
+    "ean": "7707342220037",
+    "funcion": "Gel fijador para el cabello (cosmético).",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 61,
+    "proveedor": "COMERCIAL NUTRESA S.A.S",
+    "nombre": "TROZOS ATUN ZENU EN AGUA LATA 140 GR",
+    "precio_farmacia": 4562.0,
+    "ean": "7701101363119",
+    "funcion": "Atún en agua enlatado, alimento.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 62,
+    "proveedor": "SUNSTAR AMERICAS INC",
+    "nombre": "CEPILLO DENTAL GUM SENSITIVE CLEAN TECHN",
+    "precio_farmacia": 11963.0,
+    "ean": "70942125925",
+    "funcion": "Cepillo dental para encías sensibles.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 63,
+    "proveedor": "LABORATORIOS REMO S.A.S.",
+    "nombre": "OBS. REMO DOLOTRIN GEL TUBO 30 GR",
+    "precio_farmacia": 0.0,
+    "ean": "7705451000038",
+    "funcion": "Gel analgésico tópico para dolores musculares y articulares.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 64,
+    "proveedor": "LABORATORIOS DENTAID SAS",
+    "nombre": "CEP MED+CREMA DENTAL BLANQUEA 15ML VITIS",
+    "precio_farmacia": 13807.0,
+    "ean": "8427426060326",
+    "funcion": "Crema dental blanqueadora con cepillo incluido.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 65,
+    "proveedor": "SKINDRUG S.A",
+    "nombre": "CHA.PILOSKIN BIOTINA 280 ML",
+    "precio_farmacia": 64649.0,
+    "ean": "7707327210053",
+    "funcion": "Champú con biotina para fortalecer el cabello.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": 92500.0,
+      "farmatodo": null
+    },
+    "_la_rebaja_metodo_match": "ean",
+    "_la_rebaja_principio_activo": "0 NO CODIFICADO 0",
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 66,
+    "proveedor": "NABONASAR MARTINEZ Y CIA.",
+    "nombre": "TINTE IRIS 9 ROJO 9 GR",
+    "precio_farmacia": 2361.0,
+    "ean": "7704987009096",
+    "funcion": "Tinte capilar color rojo.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 67,
+    "proveedor": "LABORATORIOS CRUZ AZUL S.",
+    "nombre": "OBS. CRUZ AZUL PRUEBA DE EMBARAZO CASSET",
+    "precio_farmacia": 0.0,
+    "ean": "7704768002155",
+    "funcion": "Prueba casera de embarazo que detecta la hormona hCG en orina.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 68,
+    "proveedor": "BSN MEDICAL LTDA.",
+    "nombre": "MEDIA NOVARIX ANTIEMB. CAJA MUSL 18-22 S",
+    "precio_farmacia": 44133.0,
+    "ean": "7707066090121",
+    "funcion": "Medias de compresión antiembólicas, usadas para prevenir trombosis (ej. tras cirugía o viajes largos).",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 69,
+    "proveedor": "LABORATORIOS MEDIFARMA S.",
+    "nombre": "SOLUCION LACTATO RINGER 1000ML CORPA BOL",
+    "precio_farmacia": 8065.0,
+    "ean": "7705366904018",
+    "funcion": "Solución intravenosa (lactato de Ringer) para hidratación y reposición de electrolitos.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 70,
+    "proveedor": "MERCK S.A.",
+    "nombre": "GLUCOPHAGE XR 500 MG 30 TBS (3%+)",
+    "precio_farmacia": 72483.0,
+    "ean": "7702418003118",
+    "funcion": "Antidiabético oral (metformina de liberación prolongada) para diabetes tipo 2.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": 74500.0,
+      "farmatodo": null
+    },
+    "_la_rebaja_metodo_match": "ean",
+    "_la_rebaja_principio_activo": "METFORMINA",
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 71,
+    "proveedor": "ASTELLAS FARMA COLOMBIA S",
+    "nombre": "OMNIC OCAS 0.4 MG 30 COMPR.(A)(3%+)(PAE)",
+    "precio_farmacia": 197597.0,
+    "ean": "7707084399374",
+    "funcion": "Medicamento (tamsulosina) para los síntomas de la hiperplasia prostática benigna.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 72,
+    "proveedor": "GLENMARK PHARMACEUTICALS",
+    "nombre": "SIBET INH.25/125MCG 120D+INHALO(P)100950",
+    "precio_farmacia": 68920.0,
+    "ean": "8904091189656",
+    "funcion": "Inhalador combinado de uso respiratorio para el control del asma/EPOC, con fórmula médica.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 73,
+    "proveedor": "LAB. HEALPHARMA DE COLOMB",
+    "nombre": "LARITOS NARANJA MIEL 12 SBS 5 PASTILLAS",
+    "precio_farmacia": 22663.0,
+    "ean": "7709965360190",
+    "funcion": "Pastillas para la garganta sabor naranja y miel.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 74,
+    "proveedor": "LABORATORIO SAN JORGE S.A",
+    "nombre": "SERUM FACIAL ACIDO SALI.+FERULICO 30 ML",
+    "precio_farmacia": 27273.0,
+    "ean": "7701684055388",
+    "funcion": "Sérum facial antioxidante (ácido salicílico y ferúlico) de uso cosmético.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 75,
+    "proveedor": "ESPECIALIDADES OFTALMOLOG",
+    "nombre": "OFTACROMAX SOLUCION OFTALMICA 4% 15ML",
+    "precio_farmacia": 29296.0,
+    "ean": "7707239275850",
+    "funcion": "Colirio antialérgico para el alivio de la irritación ocular por alergias.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 76,
+    "proveedor": "MEGALABS COLOMBIA SAS",
+    "nombre": "MANTIXA 2.5MG 30 TBS",
+    "precio_farmacia": 128378.0,
+    "ean": "7730969300103",
+    "funcion": "Medicamento de uso bajo fórmula médica.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 77,
+    "proveedor": "ALTADIS FARMACEUTICA SAS",
+    "nombre": "OBS ALTADIS.ALTACHIS DIA 500MG/5MG 30TBS",
+    "precio_farmacia": 0.0,
+    "ean": "7708647030727",
+    "funcion": "Combinación analgésica/antigripal para el alivio de síntomas de gripa.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 78,
+    "proveedor": "MEDICAL NISSI SAS",
+    "nombre": "FRASCO PARA ORINA MEDICAL 50 UND",
+    "precio_farmacia": 11128.0,
+    "ean": "7707249020013",
+    "funcion": "Frasco recolector de muestras de orina para laboratorio.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 79,
+    "proveedor": "GENFAR S.A.",
+    "nombre": "FLUCONAZOL 150 MG 2 CAPSULAS GF",
+    "precio_farmacia": 5873.0,
+    "ean": "7702605102143",
+    "funcion": "Antimicótico oral (fluconazol) para infecciones por hongos como la candidiasis.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 80,
+    "proveedor": "ASTRA ZENECA COLOMBIA S.A",
+    "nombre": "BRILINTA 90M.30C.(P)124686(3%+)(PAE)(SC)",
+    "precio_farmacia": 112006.0,
+    "ean": "7896206405502",
+    "funcion": "Antiagregante plaquetario (ticagrelor) para la prevención de eventos cardiovasculares, con fórmula médica.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 81,
+    "proveedor": "LAB. BAGO DE COLOMBIA LTD",
+    "nombre": "LEVOPRONT JARABE 120 ML",
+    "precio_farmacia": 68875.0,
+    "ean": "4029733000633",
+    "funcion": "Jarabe antitusivo (levodropropizina) para el alivio de la tos seca.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": 70000.0,
+      "farmatodo": null
+    },
+    "_la_rebaja_metodo_match": "ean",
+    "_la_rebaja_principio_activo": "LEVODROPROPIZINA",
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 82,
+    "proveedor": "COMERCIALIZADORA COMARKO",
+    "nombre": "LAPIZ DELINEADOR LAB. MARIPOSA CHOCOL",
+    "precio_farmacia": 2023.0,
+    "ean": "7709953761367",
+    "funcion": "Lápiz delineador de ojos (cosmético).",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 83,
+    "proveedor": "CASA LUKER S.A - SUCESORE",
+    "nombre": "ACEITE GOURMET FAMILIA 900 MILILITROS",
+    "precio_farmacia": 18055.0,
+    "ean": "7702141966568",
+    "funcion": "Aceite gourmet es la mezcla de aceites vegetales con niveles de ácidos grasos mono y poliinsaturados (Omegas 3, 6 y 9) y enriquecido con micronutrientes (Vitamina A, D y E) que...",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": 24200.0,
+      "farmatodo": null
+    },
+    "_la_rebaja_metodo_match": "ean",
+    "_la_rebaja_descripcion": "Aceite gourmet es la mezcla de aceites vegetales con niveles de ácidos grasos mono y poliinsaturados (Omegas 3, 6 y 9) y enriquecido con micronutrientes (Vitamina A, D y E) que ayuda a proporcionar una buena alimentación y bienestar a toda la familia. \r\n Es importante asegurar un consumo equilibrado de grasa mono insaturada (Omega 9) y grasa poliinsaturada (Omega 3 y 6)",
+    "_la_rebaja_principio_activo": "0 NO CODIFICADO 0",
+    "funcion_fuente": "drogueria_competencia"
+  },
+  {
+    "id": 84,
+    "proveedor": "LAB. FARPAG",
+    "nombre": "ENJUAGUE BUCAL CLORHEXOL 0.2% 180 ML",
+    "precio_farmacia": 31084.0,
+    "ean": "7705028092541",
+    "funcion": "Enjuague bucal antiséptico con clorhexidina.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 85,
+    "proveedor": "LABORATORIOS PHARMOR S.A.",
+    "nombre": "NEUROLIFE 360 ML",
+    "precio_farmacia": 39726.0,
+    "ean": "7707016401014",
+    "funcion": "Suplemento vitamínico para el sistema nervioso.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 86,
+    "proveedor": "LABORATORIOS LA SANTE S.A",
+    "nombre": "AMPICILINA 250 MG SUSPENSION 60 ML LS",
+    "precio_farmacia": 13396.0,
+    "ean": "7703763060313",
+    "funcion": "Antibiótico (ampicilina) en suspensión para infecciones bacterianas.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": 16400.0,
+      "farmatodo": null
+    },
+    "_la_rebaja_metodo_match": "ean",
+    "_la_rebaja_principio_activo": "AMPICILINA",
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 87,
+    "proveedor": "FARMA DE COLOMBIA S.A.",
+    "nombre": "CALCIBON D 800 UI 60 TBS GRATIS 30 TBS",
+    "precio_farmacia": 129317.0,
+    "ean": "7703454123174",
+    "funcion": "Suplemento de calcio y vitamina D para la salud ósea.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 88,
+    "proveedor": "LAB.MARIA SALOME S.A.S.",
+    "nombre": "CHA.MARIA SALOME ACCION DIARIA 1000 ML",
+    "precio_farmacia": 39200.0,
+    "ean": "7709523151680",
+    "funcion": "Champú de uso diario.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 89,
+    "proveedor": "OPTION S.A",
+    "nombre": "SOPA MARUCHAN VASO POLLO PICANTE 64GR",
+    "precio_farmacia": 4956.0,
+    "ean": "41789001840",
+    "funcion": "Sopa instantánea, alimento.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 90,
+    "proveedor": "INDUSTRIAS BISONTE S.A.",
+    "nombre": "LACTOVIT GEL BANO REPARADOR 600ML(SAV)",
+    "precio_farmacia": 20527.0,
+    "ean": "8411135009622",
+    "funcion": "Gel de baño hidratante corporal.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 91,
+    "proveedor": "LABORATORIOS NATURFAR S.A",
+    "nombre": "VALEPAS FORTE EXCTRACTO 60 ML",
+    "precio_farmacia": 11532.0,
+    "ean": "7705006015999",
+    "funcion": "Extracto de valeriana, sedante natural para la ansiedad leve y el insomnio.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 92,
+    "proveedor": "SANULAC NUTRICION COLOMBI",
+    "nombre": "ALULA GOLD 3 PACK 4X400 GR (PDC)(PAE)",
+    "precio_farmacia": 201235.0,
+    "ean": "7707527010521",
+    "funcion": "Fórmula láctea infantil (leche de fórmula para bebés).",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 93,
+    "proveedor": "BETHEL LABORATORIOS S.A.S",
+    "nombre": "SOLKING EMULSION SPF50 120 GRAMOS",
+    "precio_farmacia": 72928.0,
+    "ean": "7709527804049",
+    "funcion": "Protector solar corporal SPF50.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 94,
+    "proveedor": "EDGEWELL PERSONAL CARE CO",
+    "nombre": "MAQ.SCHICK QUATTRO TITAN.MAS 2 REP. P.E",
+    "precio_farmacia": 15758.0,
+    "ean": "4891228300838",
+    "funcion": "Máquina de afeitar recargable SCHICK QUATTRO® TITANIUM® para piel sensible es el cuidado que tu piel necesita al momento de afeitarte. Te protege incluso después de 2400 pasadas....",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": 24700.0,
+      "farmatodo": null
+    },
+    "_la_rebaja_metodo_match": "ean",
+    "_la_rebaja_descripcion": "Máquina de afeitar recargable SCHICK QUATTRO® TITANIUM® para piel sensible es el cuidado que tu piel necesita al momento de afeitarte.  Te protege incluso después de 2400 pasadas.   Conoce más información en www.schick.com.co",
+    "funcion_fuente": "drogueria_competencia"
+  },
+  {
+    "id": 95,
+    "proveedor": "ALPINA PRODUCTOS ALIMENTI",
+    "nombre": "NECTAR ALPINA FRUTTO DURAZNO 200ML",
+    "precio_farmacia": 2036.0,
+    "ean": "7702001024025",
+    "funcion": "Frutto néctar sabor durazno 200ml contiene 18% de jugo de fruta, además aporta 40 calorías. Es ideal para acompañar todas las comidas.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": 2900.0,
+      "farmatodo": null
+    },
+    "_la_rebaja_metodo_match": "ean",
+    "_la_rebaja_descripcion": "Frutto néctar sabor durazno 200ml contiene 18% de jugo de fruta, además aporta 40 calorías. Es ideal para acompañar todas las comidas.",
+    "_la_rebaja_principio_activo": "0 NO CODIFICADO 0",
+    "funcion_fuente": "drogueria_competencia"
+  },
+  {
+    "id": 96,
+    "proveedor": "BELLA LAB. SAS",
+    "nombre": "LOCION ACLARADOR KIDS ROCIO DE ORO 200ML",
+    "precio_farmacia": 22202.0,
+    "ean": "7709193832995",
+    "funcion": "Loción cosmética aclaradora de manchas en la piel, formulada para niños.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 97,
+    "proveedor": "LUZ ZUL S.A.S",
+    "nombre": "LUZ ZUL SOLUCION OFTALMICA FRASCO X 7 ML",
+    "precio_farmacia": 17022.0,
+    "ean": "77011121",
+    "funcion": "Colirio descongestionante (nafazolina) para el alivio de ojos rojos.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": 19900.0,
+      "farmatodo": null
+    },
+    "_la_rebaja_metodo_match": "ean",
+    "_la_rebaja_principio_activo": "NAFAZOLINA",
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 98,
+    "proveedor": "MANUEL ARBOLEDA Y CIA. S.",
+    "nombre": "ANTIBIL POLVO",
+    "precio_farmacia": 6579.0,
+    "ean": "7705486010002",
+    "funcion": "Producto digestivo tradicional en polvo, usado para molestias hepáticas/biliares.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 99,
+    "proveedor": "LABORATORIOS MEDICK S.A.S",
+    "nombre": "GOTAS BOTANITAS BOLDO RUIBARBO CASC 60ML",
+    "precio_farmacia": 14850.0,
+    "ean": "7703286103504",
+    "funcion": "Gotas digestivas a base de boldo y ruibarbo, de uso tradicional para molestias hepáticas.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 100,
+    "proveedor": "COLQUIMICOS LTDA",
+    "nombre": "BIRM INMUNOMODULADOR 120 ML(SAV)",
+    "precio_farmacia": 116536.0,
+    "ean": "7861000165648",
+    "funcion": "Suplemento inmunomodulador para fortalecer las defensas.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 101,
+    "proveedor": "PELGOR S.A.",
+    "nombre": "AGUA DE ROSAS PELGOR SPRAY 275 ML",
+    "precio_farmacia": 14014.0,
+    "ean": "7703752452754",
+    "funcion": "Tónico facial de agua de rosas (cosmético).",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 102,
+    "proveedor": "LAB. NATURAL FRESHLY INFA",
+    "nombre": "CITRATO DE MAGNESIO 400 GR NF",
+    "precio_farmacia": 35952.0,
+    "ean": "7707772810990",
+    "funcion": "Suplemento/laxante a base de citrato de magnesio.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 103,
+    "proveedor": "OPELLA HEALTHCARE COLOMBI",
+    "nombre": "ALLEGRA PEDIATRICO 60 ML",
+    "precio_farmacia": 32611.0,
+    "ean": "3667208000491",
+    "funcion": "Antihistamínico (fexofenadina) pediátrico para el alivio de síntomas alérgicos.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 104,
+    "proveedor": "GALDERMA DE COLOMBIA S.A.",
+    "nombre": "CETAPHIL CREMA HIDRAT. REAFIRMANTE 340GR",
+    "precio_farmacia": 73042.0,
+    "ean": "3499320018821",
+    "funcion": "Crema hidratante y reafirmante para el cuerpo.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 105,
+    "proveedor": "ISDIN COLOMBIA S.A.S.",
+    "nombre": "ISDINCEUTICS K-OX EYES CRE.15 G(SAV)(SF)",
+    "precio_farmacia": 111053.0,
+    "ean": "8429420113374",
+    "funcion": "Crema de contorno de ojos con efecto antiedad.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 106,
+    "proveedor": "TRI HEALTH GROUP S.A.S.",
+    "nombre": "PASTILLERO FS-5765 BERRI 7 DIAS",
+    "precio_farmacia": 8453.0,
+    "ean": "7709698772383",
+    "funcion": "Pastillero organizador semanal, dispositivo (no es un medicamento).",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 107,
+    "proveedor": "DIABETRICS HEALTHCARE S.A",
+    "nombre": "TIRAS REACTIVAS GLUCO 50 UND(PAE)",
+    "precio_farmacia": 106170.0,
+    "ean": "7703153029043",
+    "funcion": "Tiras reactivas para la medición de glucosa en sangre (glucómetro).",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 108,
+    "proveedor": "PRODUCTOS DISANFER S.A.S.",
+    "nombre": "BORAX 10 GR 20 SBS DISANFER",
+    "precio_farmacia": 7813.0,
+    "ean": "7707145300721",
+    "funcion": "Producto de uso tradicional (bórax) con propiedades antisépticas leves.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 109,
+    "proveedor": "HUMAX PHARMACEUTICAL",
+    "nombre": "HIDROCOFEN 5MG/325MG 10 TBS",
+    "precio_farmacia": 49438.0,
+    "ean": "7707321985711",
+    "funcion": "Analgésico combinado para el dolor moderado a severo, con fórmula médica.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 110,
+    "proveedor": "CONGRUPO S.A.S.",
+    "nombre": "AROMATICA JAIBEL GOODNIGHT 30 GR 20 S",
+    "precio_farmacia": 6748.0,
+    "ean": "7702807483064",
+    "funcion": "Infusión aromática relajante para favorecer el sueño.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 111,
+    "proveedor": "LABORATORIOS VIM SAS",
+    "nombre": "CARERINA 60 ML",
+    "precio_farmacia": 15911.0,
+    "ean": "7707269950024",
+    "funcion": "Jarabe/gotas de uso general.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 112,
+    "proveedor": "JOINPHARM S.A.S.",
+    "nombre": "BICARBONATO DE SODIO 500 GR DROFARMA",
+    "precio_farmacia": 5614.0,
+    "ean": "7703166001289",
+    "funcion": "Bicarbonato de sodio, usado como antiácido y para higiene general.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 113,
+    "proveedor": "HARTUNG Y CIA S.A.",
+    "nombre": "ACEITE LANDER BABY VIT.E 100ML+ACE.50ML",
+    "precio_farmacia": 6431.0,
+    "ean": "7702215309154",
+    "funcion": "Aceite corporal para bebés con vitamina E.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 114,
+    "proveedor": "INDUSTRIAS KATORI S.A.S",
+    "nombre": "UNIDAD ELECTRICA KATORI+5 PASTILLAS",
+    "precio_farmacia": 10032.0,
+    "ean": "7702332000071",
+    "funcion": "Repelente eléctrico de insectos con pastillas.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 115,
+    "proveedor": "ROPSOHN THERAPEUTICS",
+    "nombre": "ALSUCRAL 500 MG MASTICABLE 20 TBS",
+    "precio_farmacia": 33134.0,
+    "ean": "7704588000034",
+    "funcion": "Protector de la mucosa gástrica (sucralfato) para el tratamiento de úlceras.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 116,
+    "proveedor": "A MENARINI LATIN AMERICA",
+    "nombre": "LIOTON 1000 GEL 30 GR(3%+)",
+    "precio_farmacia": 62130.0,
+    "ean": "7708548830235",
+    "funcion": "Gel con heparina para hematomas, golpes y varices.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 117,
+    "proveedor": "AVALON PHARMACEUTICAL S.A",
+    "nombre": "SOLUCION STERIMAR INFANTIL 50 ML",
+    "precio_farmacia": 59136.0,
+    "ean": "7501080954212",
+    "funcion": "Solución de agua de mar para la limpieza nasal en bebés.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 118,
+    "proveedor": "ROSMI SAS",
+    "nombre": "LECHE DE ALMENDRA SILK VAINILLA 946 ML",
+    "precio_farmacia": 11931.0,
+    "ean": "25293002678",
+    "funcion": "Bebida vegetal (leche de almendra), alimento.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 119,
+    "proveedor": "GASEOSAS LUX S.A.S.",
+    "nombre": "GATORADE NARANJA SIN AZUCAR 500 ML(SAV)",
+    "precio_farmacia": 2295.0,
+    "ean": "7702192395416",
+    "funcion": "Bebida hidratante deportiva.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 120,
+    "proveedor": "MEDICAL SUPPLIES CORP S.A",
+    "nombre": "VENDA COHESIVA NO TEJIDA 2 X 4.5MT VERDE",
+    "precio_farmacia": 4577.0,
+    "ean": "7707364804994",
+    "funcion": "Venda elástica cohesiva (autoadherente) para vendajes.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 121,
+    "proveedor": "QUIFARMA SA",
+    "nombre": "OBS QUIFARMA.BLOQ SOL-OR 12 SBS 10 GR",
+    "precio_farmacia": 0.0,
+    "ean": "7704190573414",
+    "funcion": "Protector solar en presentación de sobres individuales.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 122,
+    "proveedor": "GRAN ANDINA DE PLASTICOS",
+    "nombre": "CHUPO MOBY ALIMENTO",
+    "precio_farmacia": 10513.0,
+    "ean": "7707233050156",
+    "funcion": "Chupete (tetero) para alimentación de bebés.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 123,
+    "proveedor": "APROQUIM LTDA",
+    "nombre": "ALUMBRE BARRA APROQUIM",
+    "precio_farmacia": 1006.0,
+    "ean": "7706183360001",
+    "funcion": "Barra astringente usada tras el afeitado.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 124,
+    "proveedor": "VILLA VERGARA  S A S",
+    "nombre": "CILKA CREMA",
+    "precio_farmacia": 24429.0,
+    "ean": "7702663000016",
+    "funcion": "Crema dermatológica de uso tópico.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": 36200.0,
+      "farmatodo": null
+    },
+    "_la_rebaja_metodo_match": "ean",
+    "_la_rebaja_principio_activo": "0 NO CODIFICADO 0",
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 125,
+    "proveedor": "COBYCO S.A.S",
+    "nombre": "BIGEN 59 NEGRO ORIENTAL",
+    "precio_farmacia": 17013.0,
+    "ean": "4987205905599",
+    "funcion": "Negro Oriental Bigen es una marca japonesa de tintes permanentes sin amoniaco, que realzan el brillo y color natural de todo tipo de cabello, se mezcla con agua natural, lo que lo...",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": 26200.0,
+      "farmatodo": null
+    },
+    "_la_rebaja_metodo_match": "ean",
+    "_la_rebaja_descripcion": "Negro Oriental Bigen es una marca japonesa de tintes permanentes sin amoniaco, que realzan el brillo y color natural de todo tipo de cabello, se mezcla con agua natural, lo que lo hace más saludable. Sus componentes principales son algas marinas y frutos orientales que otorgan un color duradero y perfecta cobertura de canas, Fácil de preparar Fácil de aplicar.Contiene 6 gramos de Polvo que se mezcla con 80 ml de Agua de la llave, dejar activar la mezcla durante 5 minutos y proceder con la aplicación, tiempo de exposición máximo 30 minutos, lavar con abundante agua aplicar champu y acondicionador para retirar de manera óptima el producto, seca tu cabello y sorpréndete con la suavidad y brillo que proporciona Bigen.",
+    "_la_rebaja_principio_activo": "0 NO CODIFICADO 0",
+    "funcion_fuente": "drogueria_competencia"
+  },
+  {
+    "id": 126,
+    "proveedor": "KENVUE COLOMBIA S.A.",
+    "nombre": "CHA.JJ BABY ORIGINAL 200 ML",
+    "precio_farmacia": 13666.0,
+    "ean": "7702031291565",
+    "funcion": "Shampoo JOHNSON ' S Original limpia efectivamente el pelo del bebé y posee una fórmula tan suave para los ojos como el agua pura .",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": 21000.0,
+      "farmatodo": null
+    },
+    "_la_rebaja_metodo_match": "ean",
+    "_la_rebaja_descripcion": "Shampoo     JOHNSON  '  S     Original     limpia     efectivamente     el     pelo     del     bebé     y     posee     una     fórmula     tan     suave     para     los     ojos     como     el     agua     pura  .",
+    "funcion_fuente": "drogueria_competencia"
+  },
+  {
+    "id": 127,
+    "proveedor": "MEDISANDER S.A.S.",
+    "nombre": "DERMOLIMPIADOR LIQ.MEDID 500 GR",
+    "precio_farmacia": 72760.0,
+    "ean": "7709990885958",
+    "funcion": "Limpiador líquido dérmico para la piel.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 128,
+    "proveedor": "COMERC.MUNDIAL DE DEPORTE",
+    "nombre": "BLUSA FARMA M.LAR.C.CALI.T.XL.BW M AZUL",
+    "precio_farmacia": 80249.0,
+    "ean": "7707480278853",
+    "funcion": "Prenda de vestir (blusa/uniforme), no es un medicamento.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 129,
+    "proveedor": "ASPEN COLOMBIANA SAS",
+    "nombre": "EPAMIN JARABE 240 ML",
+    "precio_farmacia": 58522.0,
+    "ean": "6091403223381",
+    "funcion": "Anticonvulsivante (fenitoína) para el tratamiento de la epilepsia, con fórmula médica.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 130,
+    "proveedor": "AVIMEX DE COLOMBIA E.U",
+    "nombre": "MUNEQUERA AMBIDIESTRA PURA+ X 1 UND",
+    "precio_farmacia": 21865.0,
+    "ean": "7591011002563",
+    "funcion": "Muñequera anatómica compuesta por Neopreno, tablilla metálica y cierre de contacto. Dando soporte a la muñeca afectada.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": 37400.0,
+      "farmatodo": null
+    },
+    "_la_rebaja_metodo_match": "ean",
+    "_la_rebaja_descripcion": "Muñequera anatómica compuesta por Neopreno, tablilla metálica y cierre de contacto. Dando soporte a la muñeca afectada.",
+    "funcion_fuente": "drogueria_competencia"
+  },
+  {
+    "id": 131,
+    "proveedor": "INTERNACIONAL DE PERFUMER",
+    "nombre": "OBS.INT.PERFUMERIAS PR.EMB.ICOM CAS.",
+    "precio_farmacia": 0.0,
+    "ean": "7704768002155",
+    "funcion": "Prueba casera de embarazo.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 132,
+    "proveedor": "PF FARMACEUTICA S.A.",
+    "nombre": "CRE.DEN.FITOKIDS SIN FLUOR 75 GR",
+    "precio_farmacia": 19071.0,
+    "ean": "7703445200013",
+    "funcion": "Crema dental infantil sin flúor.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": 28200.0,
+      "farmatodo": null
+    },
+    "_la_rebaja_metodo_match": "ean",
+    "_la_rebaja_principio_activo": "0 NO CODIFICADO 0",
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 133,
+    "proveedor": "PROSODENT LTDA.",
+    "nombre": "PROT.LABIAL SUAVIDENT CEREZA",
+    "precio_farmacia": 4743.0,
+    "ean": "7707267905552",
+    "funcion": "Protector labial sabor cereza.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 134,
+    "proveedor": "BIOKEMICAL S.A.S",
+    "nombre": "BONY PLUS TABLETAS LIMPIADORAS 10 SBS",
+    "precio_farmacia": 27708.0,
+    "ean": "7709990014624",
+    "funcion": "Tabletas limpiadoras para prótesis dentales.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 135,
+    "proveedor": "LAB. AMERICA S.A.",
+    "nombre": "STEVIA BIOLADIET 280 GR LA",
+    "precio_farmacia": 16847.0,
+    "ean": "7703006051238",
+    "funcion": "Endulzante natural bajo en calorías (stevia).",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 136,
+    "proveedor": "PROFMA S.A.S.",
+    "nombre": "VCLOCLI CREM VAGINAL 20 GRS",
+    "precio_farmacia": 27236.0,
+    "ean": "7709347563751",
+    "funcion": "Crema vaginal antimicótica para infecciones por hongos.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 137,
+    "proveedor": "LABORATORIOS ECAR S.A.",
+    "nombre": "OBS. ECAR ATLETICS DICLOFEN GEL 60 GR",
+    "precio_farmacia": 0.0,
+    "ean": "7702184530023",
+    "funcion": "Gel antiinflamatorio (diclofenaco) de uso tópico para dolores musculares y articulares.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": 16800.0,
+      "farmatodo": null
+    },
+    "_la_rebaja_metodo_match": "ean",
+    "_la_rebaja_principio_activo": "DICLOFENACO",
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 138,
+    "proveedor": "LABORATORIOS ESCOVAR S.A.",
+    "nombre": "SANAFITIL SOLUCION  30 ML",
+    "precio_farmacia": 21331.0,
+    "ean": "7709990920475",
+    "funcion": "Producto fitoterapéutico de uso digestivo/hepático.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 139,
+    "proveedor": "BORN D.C S.A.S.",
+    "nombre": "LAZARO 200 ML 7 SACHETS (SAV)",
+    "precio_farmacia": 29765.0,
+    "ean": "7709997037176",
+    "funcion": "Suplemento/tónico energizante en sachets.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 140,
+    "proveedor": "HALEON COLOMBIA S.A.S.",
+    "nombre": "PRESERVAT.TODAY MUTUAL SENSATION 3 UND",
+    "precio_farmacia": 17743.0,
+    "ean": "7702132009977",
+    "funcion": "Today Condones Mutual Sensation, Lubricado para ti y tu pareja , Doble lubricación, doble placer. Máxima calidad comprobada, seguridad, sensibilidad y control de calidad...",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": 21000.0,
+      "farmatodo": null
+    },
+    "_la_rebaja_metodo_match": "ean",
+    "_la_rebaja_descripcion": "Today Condones Mutual Sensation, Lubricado para ti y tu pareja , Doble lubricación, doble placer. Máxima calidad comprobada, seguridad, sensibilidad y control de calidad electrónico. X 6 UND",
+    "_la_rebaja_principio_activo": "0 NO CODIFICADO 0",
+    "funcion_fuente": "drogueria_competencia"
+  },
+  {
+    "id": 141,
+    "proveedor": "CELLAVANT S.A.S.",
+    "nombre": "PREVENTIVE ANTITRANSPI.ROLL ON 35GR(SAV)",
+    "precio_farmacia": 19184.0,
+    "ean": "7709756266885",
+    "funcion": "Antitranspirante roll-on.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 142,
+    "proveedor": "FERRERO LATIN AMERICA DEV",
+    "nombre": "FERRERO ROCHER TRIPACK 16X3 UND",
+    "precio_farmacia": 96550.0,
+    "ean": "7898024390121",
+    "funcion": "Chocolates, no es un medicamento.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 143,
+    "proveedor": "LABORATORIOS SERES S.A.S.",
+    "nombre": "GRIPOFEN NINOS JARABE 60 ML",
+    "precio_farmacia": 13001.0,
+    "ean": "7705753000682",
+    "funcion": "Jarabe antigripal pediátrico para el alivio de síntomas de gripa en niños.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 144,
+    "proveedor": "LAB.SIEGFRIED S.A",
+    "nombre": "NUTRIBABY PREMIUM 1 800 GR",
+    "precio_farmacia": 132941.0,
+    "ean": "7798181642128",
+    "funcion": "Fórmula láctea infantil (leche de inicio).",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 145,
+    "proveedor": "DEL ALBA SA",
+    "nombre": "PISTACHO DEL ALBA SALADO 30 G",
+    "precio_farmacia": 4644.0,
+    "ean": "7707172310731",
+    "funcion": "Pistacho salado, snack.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": 6900.0,
+      "farmatodo": null
+    },
+    "_la_rebaja_metodo_match": "ean",
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 146,
+    "proveedor": "HENKEL COLOMBIANA S.A.",
+    "nombre": "PALETTE CREM TUBO 1-0 NEGRO",
+    "precio_farmacia": 9841.0,
+    "ean": "7702045087895",
+    "funcion": "Descripción: Palette Intensive Color Creme tu aliado para un color intenso y duradero¹ con 100% cobertura de canas², ahora con NUEVA FÓRMULA MULTI-CUIDADO³ protege y brinda...",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": 15600.0,
+      "farmatodo": null
+    },
+    "_la_rebaja_metodo_match": "ean",
+    "_la_rebaja_descripcion": "Descripción:  \n  \n\t \n\t\t \n\t\t\t Palette Intensive Color Creme tu aliado para un color intenso y duradero¹ con 100% cobertura de canas², ahora con NUEVA FÓRMULA MULTI-CUIDADO³ protege y brinda cuidado integral durante y después de la coloración. \n\t\t\t \n\t\t\t- Contiene Keratina, Pantenol y Serum Reparador. \n\t\t\t- Tinte Permanente en crema. \n\t\t\t- Marca #1 en coloración en Colombia? . \n\t\t\t \n\t\t\tLlena tu mundo de alegría con colores intensos y duraderos. \n\t\t\t \n\t\t\t ¹ Intensidad de color hasta por 10 semanas según prueba instrumental \n\t\t\t ² Hasta 100% dependiendo del tono del tinte. El uso combinado con un tono natural puede lograr un 100% cubrimiento de canas \n\t\t\t³Con el uso del tratamiento fijador de color y tratamiento reactivador de cuidado \n\t\t\t ? Cálculos de HENKEL basados en parte en datos reportados por NielsenIQ mediante el servicio Retail Index para la categoría Tinturas y decolorantes al año móvil 2023 (enero 2023 a diciembre 2023) para Total Colombia (Derechos reservados® 2023, The Nielsen Company) \n\t\t \n\t \n \n  \n\n  Modo de Empleo:  \n  \n\t \n\t \n\t\t \n\t\t\t \n\t\t\t\t \n\t\t\t\t Modo de uso: \n\n\t\t\t\t 1. Mezcla siempre la crema colorante con la Loción Reveladora. Relación de mezcla: 1:1, 50ml de crema colorante: 50ml de Loción Reveladora. \n\t\t\t\t2. Aplica según las recomendaciones del folleto. \n\t\t\t\t3. Enjuaga y usa el tratamiento fijador de color por 5 minutos. \n\t\t\t\t4. Dos semanas después, aplica el tratamiento reactivador de cuidado por 5 minutos, para extra-protección. \n\t\t\t\t \n\t\t\t \n\t\t \n\t \n\t \n \n  \n\n  Beneficios:  \n  \n\t Contiene Keratina, Nutri-aceite y Serum plex . \n\t Tinte Permanente en crema. \n\t Marca #1 en coloración en Colombia³ . \n \n\n  ³  Cálculos de HENKEL basados en parte en datos reportados por NielsenIQ mediante el servicio Retail Index para la categoría Tinturas y decolorantes al año móvil 2023 (enero 2023 a diciembre 2023) para Total Colombia (Derechos reservados® 2023, The Nielsen Company)",
+    "_la_rebaja_principio_activo": "0 NO CODIFICADO 0",
+    "funcion_fuente": "drogueria_competencia"
+  },
+  {
+    "id": 147,
+    "proveedor": "PAPEL ROLLOS LTDA",
+    "nombre": "ROLLO PAPEL BOND 76 MM 40 MTS 6 UND",
+    "precio_farmacia": 9318.0,
+    "ean": "7709990538885",
+    "funcion": "Papel de rollo para impresión (uso de oficina/punto de venta), no es un medicamento.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 148,
+    "proveedor": "CONTINENTE S.A.",
+    "nombre": "OBS.ALBUM PAS.BL.WORLD CUP 2026",
+    "precio_farmacia": 1.0,
+    "ean": "8051708011265",
+    "funcion": "Álbum coleccionable de figuritas, no es un medicamento.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 149,
+    "proveedor": "NATURALE WORLD SOLUTIONS",
+    "nombre": "RPTO.VAPORIZA.NATURALE LIMON.MENT.130ML",
+    "precio_farmacia": 12341.0,
+    "ean": "7709307193837",
+    "funcion": "Repuesto aromatizante para vaporizador ambiental, aroma limón-menta.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": null,
+      "farmatodo": null
+    },
+    "funcion_fuente": "ia_generado"
+  },
+  {
+    "id": 150,
+    "proveedor": "BREMYMG SAS",
+    "nombre": "FLEMALIS 120 ML(SAV)",
+    "precio_farmacia": 15135.0,
+    "ean": "7707062800083",
+    "funcion": "Mucolítico/expectorante (bromhexina) para la tos con flema.",
+    "precios_competencia": {
+      "cruz_verde": null,
+      "la_rebaja": 29500.0,
+      "farmatodo": null
+    },
+    "_la_rebaja_metodo_match": "ean",
+    "_la_rebaja_principio_activo": "BROMEHESINA",
+    "funcion_fuente": "ia_generado"
+  }
+]
