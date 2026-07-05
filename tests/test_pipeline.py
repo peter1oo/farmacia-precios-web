@@ -2,7 +2,7 @@ from datetime import date
 
 from calcular_ranking_ventas import normalizar
 from extraer_catalogo import PATRON_PROMOCIONAL
-from scrapear_larebaja import fusionar_resultado
+from scrapear_larebaja import construir_consulta_texto, fusionar_resultado
 from seleccionar_lote import franja_de, seleccionar
 from validar_publicacion import debe_publicar
 
@@ -79,6 +79,16 @@ def test_seleccionar_las_7_franjas_cubren_todo_sin_solapar():
     for i in range(7):
         for j in range(i + 1, 7):
             assert not (franjas[i] & franjas[j]), "las franjas no deben solaparse"
+
+
+# --- construir_consulta_texto (el sitio rechaza el "+" literal, con o sin URL-encode) ---
+
+def test_construir_consulta_texto_quita_el_signo_mas():
+    assert "+" not in construir_consulta_texto("VITAMINA E 400 UI+A")
+
+
+def test_construir_consulta_texto_limita_a_4_palabras():
+    assert construir_consulta_texto("uno dos tres cuatro cinco seis") == "uno dos tres cuatro"
 
 
 # --- fusionar_resultado (seccion 6, no perder datos ante fallas) ---

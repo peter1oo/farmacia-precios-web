@@ -69,11 +69,16 @@ def buscar_por_ean(ean):
     return r.json() or None
 
 
+def construir_consulta_texto(nombre: str) -> str:
+    # El "+" literal (ej. nombres como "VITAMINA E 400 UI+A") es rechazado
+    # por el sitio sin importar como se codifique -- se quita.
+    return " ".join(nombre.replace("+", " ").split()[:4])
+
+
 def buscar_por_texto(nombre):
     # El sitio rechaza (400) los espacios codificados como "+" (lo que hace
     # requests por defecto al pasar params=dict); solo acepta "%20".
-    consulta = " ".join(nombre.split()[:4])
-    url = f"{BASE_URL}?ft={quote(consulta)}"
+    url = f"{BASE_URL}?ft={quote(construir_consulta_texto(nombre))}"
     r = requests.get(url, headers=HEADERS, timeout=10)
     r.raise_for_status()
     return r.json() or None
