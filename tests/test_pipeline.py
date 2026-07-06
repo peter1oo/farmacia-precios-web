@@ -2,6 +2,7 @@ from datetime import date
 
 from calcular_ranking_ventas import normalizar
 from extraer_catalogo import PATRON_PROMOCIONAL
+from generar_web import resolver_funcion
 from scrapear_larebaja import construir_consulta_texto, fusionar_resultado
 from seleccionar_lote import franja_de, seleccionar
 from validar_publicacion import debe_publicar
@@ -107,6 +108,22 @@ def test_fusionar_resultado_sin_match_no_borra_precio_anterior():
     assert entrada["descripcion"] == "desc vieja"
     assert entrada["disponible"] is False
     assert entrada["ultima_consulta"] == "2026-07-05"
+
+
+# --- resolver_funcion (descripciones IA, ver diseno 2026-07-06) ---
+
+def test_resolver_funcion_prioriza_descripcion_real_sobre_ia():
+    funcion, fuente = resolver_funcion({"descripcion": "real"}, "generada por ia")
+    assert (funcion, fuente) == ("real", "real")
+
+
+def test_resolver_funcion_usa_ia_si_no_hay_real():
+    funcion, fuente = resolver_funcion({}, "generada por ia")
+    assert (funcion, fuente) == ("generada por ia", "ia")
+
+
+def test_resolver_funcion_ninguna_disponible():
+    assert resolver_funcion({}, None) == (None, None)
 
 
 # --- validar_publicacion (seccion 6, no publicar ante caida sospechosa) ---

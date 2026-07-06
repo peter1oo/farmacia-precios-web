@@ -24,6 +24,7 @@ CATALOGO_JSON = DATA_DIR / "catalogo.json"
 RANKING_VENTAS_JSON = DATA_DIR / "ranking_ventas.json"
 PRECIOS_LAREBAJA_JSON = DATA_DIR / "precios_larebaja.json"
 LOTE_HOY_JSON = DATA_DIR / "lote_hoy.json"
+DESCRIPCIONES_IA_JSON = DATA_DIR / "descripciones_ia.json"
 
 WEB_DIR = RAIZ / "web"
 

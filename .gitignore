@@ -4,3 +4,5 @@ __pycache__/
 venv/
 .env
 *.log
+data/lote_descripciones_pendiente.json
+data/lote_descripciones_redactado.json

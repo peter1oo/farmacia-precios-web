@@ -147,8 +147,10 @@ function renderProducto(p) {
     claseCompetencia += propio <= competencia ? " mejor" : " peor";
   }
 
-  const badge = p.funcion
+  const badge = p.funcion_fuente === "real"
     ? `<span class="badge ok">verificado</span>`
+    : p.funcion_fuente === "ia"
+    ? `<span class="badge no">no verificado</span>`
     : `<span class="badge no">sin descripción</span>`;
 
   const funcionHtml = p.funcion
