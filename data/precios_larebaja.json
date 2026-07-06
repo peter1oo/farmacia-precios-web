@@ -12,6 +12,10 @@
       {
         "fecha": "2026-07-06",
         "tasa_match": 0.6108
+      },
+      {
+        "fecha": "2026-07-06",
+        "tasa_match": 0.5984
       }
     ]
   },
@@ -436,7 +440,7 @@
     },
     "40000514480": {
       "ultima_consulta": "2026-07-06",
-      "precio": 7300.0,
+      "precio": 1800.0,
       "metodo_match": "texto",
       "disponible": true,
       "principio_activo": "0 NO CODIFICADO 0",
@@ -444,7 +448,7 @@
     },
     "40000514510": {
       "ultima_consulta": "2026-07-06",
-      "precio": 7300.0,
+      "precio": 1800.0,
       "metodo_match": "texto",
       "disponible": true,
       "principio_activo": "0 NO CODIFICADO 0",
@@ -809,7 +813,7 @@
     },
     "4104480706172": {
       "ultima_consulta": "2026-07-06",
-      "precio": 73700.0,
+      "precio": 58960.0,
       "metodo_match": "ean",
       "disponible": true,
       "descripcion": "El expectorante natural de origen alemán que ayuda a aliviar la tos en niños y adultos.",
@@ -4773,10 +4777,10 @@
     },
     "7702045077407": {
       "ultima_consulta": "2026-07-06",
-      "precio": 1390.0,
+      "precio": 28100.0,
       "metodo_match": "texto",
       "disponible": true,
-      "descripcion": "Descripción:  \n Desodorante Balance Crema Clinical Care Mujer 18 Und x 9 Gr\nEl desodorante Balance Clinical Care con fórmula avanzada 96h* Active Technology combina el máximo desempeño ** clínico y fragancias Deo-Activas que controlan el mal olor, brindándote protección de larga duración mientras cuida tu piel.\nClínicamente probado. \n\nIdeal para:\n- Mantenerte fresca todo el día con \"Acción Fresh Dry\"\n- Cuidarte y proteger tus axilas con dermo-acondicionadores.\n- Para Mujeres. \n\n*Protección desodorante\n*Acción Antitranspirante  \n\n  Modo de Empleo:  \n Quitar el sello de seguridad.\nGirar el tornillo y aplicar una cantidad su?ciente sobre las axilas, esparcir uniformemente y dejar secar.\nTapar bien después de usar.  \n\n  Beneficios:  \n Ideal para:\n- Mantenerte fresca todo el día con \"Acción Fresh Dry\"\n- Cuidarte y proteger tus axilas con dermo-acondicionadores.\n- Para Mujeres.",
+      "descripcion": "Descripción:  \n  El desodorante Balance Clinical Protection con fórmula 96h* combina ingredientes de eficacia comprobada con Fragancias Deo-Activas para garantizar un máximo desempeño** clínico. \nClínicamente probado.  \n\n Ideal para: \n\n \n\t Hombres que están sometidos a situaciones más exigentes durante el día \n\t Mantenerte fresco todo el día con la \"Acción Fresh Dry\" \n\t Cuida tus axilas con dermo-acondicionadores.  \n \n\n *Protección desodorante \n*Acción Antitranspirante \n  \n\n  Modo de Empleo:  \n  \n\t Quitar el sello de seguridad. \n\t Girar el tornillo y aplicar una cantidad su?ciente sobre las axilas, esparcir uniformemente y dejar secar. \n\t Tapar bien después de usa \n \n  \n\n  Beneficios:  \n  Ideal para: \n\n \n\t Hombres que están sometidos a situaciones más exigentes durante el día \n\t Mantenerte fresco todo el día con la \"Acción Fresh Dry\" \n\t Cuida tus axilas con dermo-acondicionadores.",
       "principio_activo": "0 NO CODIFICADO 0"
     },
     "7702045124408": {
@@ -5172,7 +5176,7 @@
     },
     "7702057061906": {
       "ultima_consulta": "2026-07-06",
-      "disponible": true,
+      "disponible": false,
       "precio": 7100.0,
       "metodo_match": "ean",
       "principio_activo": "VENLAFAXINA"
@@ -5208,7 +5212,7 @@
     },
     "7702057070014": {
       "ultima_consulta": "2026-07-06",
-      "precio": 3560.0,
+      "precio": 2660.0,
       "metodo_match": "texto",
       "disponible": true,
       "principio_activo": "ACIDO ACETILSALICILICO"
@@ -6782,7 +6786,7 @@
     },
     "7702184012659": {
       "ultima_consulta": "2026-07-06",
-      "precio": 9000.0,
+      "precio": 9500.0,
       "metodo_match": "texto",
       "disponible": true,
       "principio_activo": "TINIDAZOL"
@@ -8102,7 +8106,7 @@
     },
     "7702605100538": {
       "ultima_consulta": "2026-07-06",
-      "disponible": true,
+      "disponible": false,
       "precio": 23700.0,
       "metodo_match": "ean",
       "principio_activo": "AZITROMICINA"
@@ -8273,7 +8277,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 13100.0,
       "metodo_match": "ean",
-      "disponible": true,
+      "disponible": false,
       "principio_activo": "VALSARTAN"
     },
     "7702605105571": {
@@ -9133,10 +9137,10 @@
     },
     "7703038064367": {
       "ultima_consulta": "2026-07-06",
-      "precio": 26600.0,
+      "precio": 9400.0,
       "metodo_match": "texto",
       "disponible": true,
-      "principio_activo": "HIOSCINA"
+      "principio_activo": "N-BUTILBROMURO DE HIOSCINA"
     },
     "7703038065333": {
       "ultima_consulta": "2026-07-06",
@@ -9200,7 +9204,7 @@
     },
     "7703038066996": {
       "ultima_consulta": "2026-07-06",
-      "precio": 16800.0,
+      "precio": 17300.0,
       "metodo_match": "texto",
       "disponible": true,
       "principio_activo": "FLUCONAZOL"
@@ -9954,7 +9958,7 @@
     },
     "7703281000679": {
       "ultima_consulta": "2026-07-06",
-      "precio": 63300.0,
+      "precio": 50640.0,
       "metodo_match": "ean",
       "disponible": true,
       "descripcion": "Crema protectora Favorece los procesos de cicatrización. Sistema de protección cutánea avanzado que favorece el proceso de cicatrización de la piel ya que adicional al óxido de zinc y calamina.",
@@ -10074,7 +10078,7 @@
     },
     "7703333007113": {
       "ultima_consulta": "2026-07-06",
-      "precio": 51400.0,
+      "precio": 41120.0,
       "metodo_match": "ean",
       "disponible": true,
       "principio_activo": "OXIDO DE ZINC"
@@ -11758,10 +11762,10 @@
     },
     "7704768001189": {
       "ultima_consulta": "2026-07-06",
-      "precio": 9800.0,
+      "precio": 5000.0,
       "metodo_match": "texto",
       "disponible": true,
-      "principio_activo": "CIPROFIBRATO TAB CAP"
+      "principio_activo": "TRAMADOL"
     },
     "7704768001240": {
       "ultima_consulta": "2026-07-06",
@@ -12825,7 +12829,7 @@
     },
     "7705959012663": {
       "ultima_consulta": "2026-07-06",
-      "disponible": true,
+      "disponible": false,
       "precio": 12500.0,
       "metodo_match": "ean",
       "principio_activo": "DOXICICLINA"
@@ -12907,10 +12911,10 @@
     },
     "7705959884192": {
       "ultima_consulta": "2026-07-06",
-      "precio": 22200.0,
+      "precio": 18400.0,
       "metodo_match": "texto",
       "disponible": true,
-      "principio_activo": "IRBESARTAN"
+      "principio_activo": "PREGABALINA TAB-CAP"
     },
     "7705959884352": {
       "ultima_consulta": "2026-07-06",
@@ -15145,7 +15149,10 @@
     },
     "7707236122102": {
       "ultima_consulta": "2026-07-06",
-      "disponible": false
+      "disponible": true,
+      "precio": 9400.0,
+      "metodo_match": "texto",
+      "principio_activo": "N-BUTILBROMURO DE HIOSCINA"
     },
     "7707236122171": {
       "ultima_consulta": "2026-07-06",
@@ -15167,10 +15174,10 @@
     },
     "7707236123048": {
       "ultima_consulta": "2026-07-06",
-      "precio": 27300.0,
+      "precio": 9400.0,
       "metodo_match": "texto",
       "disponible": true,
-      "principio_activo": "N-BUTILBROMURO DE HIOSCINA, ACETAMINOFEN"
+      "principio_activo": "N-BUTILBROMURO DE HIOSCINA"
     },
     "7707236123659": {
       "ultima_consulta": "2026-07-06",
@@ -15921,7 +15928,7 @@
     },
     "7707300932385": {
       "ultima_consulta": "2026-07-06",
-      "disponible": true,
+      "disponible": false,
       "precio": 8400.0,
       "metodo_match": "ean",
       "principio_activo": "0 NO CODIFICADO 0"
@@ -16106,7 +16113,7 @@
       "disponible": false
     },
     "7707331800486": {
-      "ultima_consulta": "2026-07-05",
+      "ultima_consulta": "2026-07-06",
       "precio": 32200.0,
       "metodo_match": "ean",
       "disponible": true,
@@ -16884,10 +16891,10 @@
     },
     "7708483740279": {
       "ultima_consulta": "2026-07-06",
-      "precio": 1120.0,
+      "precio": 1200.0,
       "metodo_match": "texto",
       "disponible": true,
-      "principio_activo": "0 NO CODIFICADO 0"
+      "principio_activo": "SULFATO DE MAGNESIA"
     },
     "7708483740323": {
       "ultima_consulta": "2026-07-05",
@@ -17817,7 +17824,7 @@
     },
     "7803510002396": {
       "ultima_consulta": "2026-07-06",
-      "precio": 75300.0,
+      "precio": 67770.0,
       "metodo_match": "ean",
       "disponible": true,
       "descripcion": "Laxante. Tratamiento de corta duración del estreñimiento ocasional y afecciones en las cuales se requiera una fácil evacuación intestinal. Para que buscan una solución práctica y eficiente, pero más potente.",
@@ -17837,7 +17844,7 @@
     },
     "7803510773319": {
       "ultima_consulta": "2026-07-06",
-      "precio": 39200.0,
+      "precio": 35280.0,
       "metodo_match": "ean",
       "disponible": true,
       "descripcion": "Laxante. Tratamiento de corta duración del estreñimiento ocasional y afecciones en las cuales se requiera una fácil evacuación intestinal que buscan una experiencia natural.",
@@ -19051,7 +19058,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 171500.0,
       "metodo_match": "ean",
-      "disponible": true,
+      "disponible": false,
       "principio_activo": "ADAPALENO, PEROXIDO DE BENZOILO"
     },
     "3499320004497": {
@@ -19133,10 +19140,10 @@
     },
     "3701129800850": {
       "ultima_consulta": "2026-07-06",
-      "precio": 113950.0,
+      "precio": 114380.0,
       "metodo_match": "texto",
       "disponible": true,
-      "descripcion": "Gel Micelar, limpiador suave con un poder hidratante reforzado\r\nModo de uso: 1. Aplicar el gel limpiador sobre la piel húmeda. 2. Enjuagar bien y secar suavemente. 3. Utilizar mañana y noche. \r\nAdvertencias: En caso de reacción desfavorable, suspenda su uso."
+      "descripcion": "Limpiador facial en Gel para piel mixta a grasa que suaviza la piel y previene la aparición de imperfecciones mediante la higiene. \r\nModo de uso: Aplicar mañana y noche 7 días de la semana sobre la piel mojada, con estos pasos: 1. Forme espuma y después, aclare con abundante agua. 2. Seque suavemente.\r\nAdvertencias: En caso de presentar reacción desfavorable, suspensa su uso."
     },
     "3701129812044": {
       "ultima_consulta": "2026-07-06",
@@ -19223,10 +19230,10 @@
     },
     "4005900495709": {
       "ultima_consulta": "2026-07-06",
-      "precio": 25300.0,
+      "precio": 27000.0,
       "metodo_match": "texto",
       "disponible": true,
-      "descripcion": "DESODORANTE NIVEA DEEP EXTREME MEN SPRAY FCO X150 ML\r\nFCO X150 ML\r\nNivea Men Deep MAXXTECH formula con carbón activado y fresca fragancia energizante, reduce hasta el 99.9% de bacterias.  \r\nModo de uso:\r\nUso en axilas, ubiqué el envase a 15cm  de la axila y rocié. Esperar secar antes de vestirse. En caso de oclusión de la válvula agite bien el envase, ya que su presión interna libera la oclusión. \r\nBeneficios:\r\nDesodorante antitranspirante en formato Spray, con 72 horas de protección “Black Carbón Antibacterial” Reduce hasta el 99% de bacterias, protección activa de la piel, fragancia de extra duración, fuerte rendimiento contra el sudor. Protección confiable contra el sudor antes, durante y después de hacer deporte, dermatológicamente probado. \r\nCaracterísticas:\r\nFormula con carbón activado y fresca fragancia energizante: reduce hasta el 99.9% de las bacterias. Protección Activa de la Piel y fragancia de extra duración. \r\nAdvertencias:\r\nAerosol extremadamente inflamable. Recipiente presuriza-do, mantener el envase alejado de temperaturas extremas, superficies calientes, chispas o fuego directo. No utilizar cerca o sobre una llama/ flama directamente u otra fuente de ignición, no perforar ni quemar el envase, incluso después de su uso. Proteger de la luz solar. No exponer a temperaturas superiores a 50 C. Utilizar solo latas vacías en el proceso de reciclaje. No aplicar cerca de los ojos ni usar en piel irritada o lastimada.Conservar en un lugar fresco y oscuro. No contiene CFC. No daña la capa de ozono. No inhale directamente el contenido. Mantener fuera del alcance de los niños. Este producto no estáformulado para su uso en niños.Descontinuar su uso en caso de presentar irritación, enrojecimiento o alguna molestia."
+      "descripcion": "Antistranspirante Nivea Men Black & White Power en roll on con 48 horas de protección contra la sudoración y el mal olor, no deja manchas blancas en la ropa negra y ayuda a reducir la formación de manchas amarillas en la ropa blanca causadas por el desodorante. Fórmula X5 ANTI, ANTI-OLOR, ANTI-SUDOR, ANTI-MANCHAS ANTI-RESIDUOS Y ANTI-IRRITACIÓN."
     },
     "4005900581358": {
       "ultima_consulta": "2026-07-06",
@@ -19493,7 +19500,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 83200.0,
       "metodo_match": "texto",
-      "disponible": true,
+      "disponible": false,
       "descripcion": "Sérum rellenador ojos con ácido hialurónico y cafeina. Reduce ojeras y bolsas. Rellena líneas de expresión. Serum con ácido hialurónico Revitalift Filler que hidrata intensamente y rellena las líneas alrededor de los ojos, y cafeína que revitaliza la piel para reducir ojeras y bolsas. Efecto refrescante instantáneo gracias a su aplicador flexible en formato roll-on con 3 bolas de acero inoxidable, que ayudan a desinflar las ojeras y se adapta al contorno de los ojos."
     },
     "5060565101364": {
@@ -19632,7 +19639,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 17800.0,
       "metodo_match": "texto",
-      "disponible": true
+      "disponible": false
     },
     "722776007310": {
       "ultima_consulta": "2026-07-06",
@@ -19649,7 +19656,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 282700.0,
       "metodo_match": "ean",
-      "disponible": true,
+      "disponible": false,
       "descripcion": "Gel transparente y crema de emulsión ligera Fácil aplicación"
     },
     "736085278507": {
@@ -20064,7 +20071,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 43900.0,
       "metodo_match": "ean",
-      "disponible": true,
+      "disponible": false,
       "descripcion": "Piel Naturalmente tonificada y luminosa, contiene extracto de aloe orìgen natural + antioxidantes<"
     },
     "7506306237155": {
@@ -20262,7 +20269,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 72900.0,
       "metodo_match": "ean",
-      "disponible": true,
+      "disponible": false,
       "descripcion": "Crema facial L'Oréal Paris Revitalift ácido hialurónico noche, previene y trata líneas de expresión. Hidratación 24 H."
     },
     "7509552840636": {
@@ -20276,7 +20283,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 28500.0,
       "metodo_match": "ean",
-      "disponible": true
+      "disponible": false
     },
     "7509552843620": {
       "ultima_consulta": "2026-07-06",
@@ -20289,7 +20296,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 29700.0,
       "metodo_match": "ean",
-      "disponible": true,
+      "disponible": false,
       "descripcion": "Cargue el aplicador con suficiente producto y aplíquelo directamente en los labios, con movimientos uniformes sin sobrepasar la comisura. Retoque cada vez que se pierda la intensidad de color. Si desea mayor definición en los contornos delinee con el Lápiz delineador de labios Fantastic y posterior aplique el labial de la forma indicada previamente."
     },
     "7509552847253": {
@@ -20457,10 +20464,11 @@
     },
     "751273785612": {
       "ultima_consulta": "2026-07-06",
-      "precio": 92300.0,
+      "precio": 121900.0,
       "metodo_match": "texto",
       "disponible": true,
-      "principio_activo": "VITAMINA E, OMEGA"
+      "principio_activo": "mioinositol, YODO, ZINC, COLECALCIFEROL",
+      "descripcion": "Myosop® recomendado para mujeres en edad fértil. Su formulación contiene \r\n vitaminas, minerales, ácido fólico y myoinositol que ayudan a favorecer la \r\n fertilidad femenina y masculina, aumentando las posibilidades de un \r\n embarazo natural, además está indicado en síndrome de ovario poliquístico y \r\n mujeres con diabetes gestacional."
     },
     "751273788743": {
       "ultima_consulta": "2026-07-06",
@@ -20496,7 +20504,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 36600.0,
       "metodo_match": "ean",
-      "disponible": true
+      "disponible": false
     },
     "7612797421987": {
       "ultima_consulta": "2026-07-06",
@@ -20584,7 +20592,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 4100.0,
       "metodo_match": "ean",
-      "disponible": true,
+      "disponible": false,
       "principio_activo": "ACETAMINOFEN"
     },
     "7702001024025": {
@@ -21059,10 +21067,10 @@
     },
     "7702029665088": {
       "ultima_consulta": "2026-07-06",
-      "precio": 1390.0,
+      "precio": 4000.0,
       "metodo_match": "texto",
       "disponible": true,
-      "descripcion": "Descripción:  \n Desodorante Balance Crema Clinical Care Mujer 18 Und x 9 Gr\nEl desodorante Balance Clinical Care con fórmula avanzada 96h* Active Technology combina el máximo desempeño ** clínico y fragancias Deo-Activas que controlan el mal olor, brindándote protección de larga duración mientras cuida tu piel.\nClínicamente probado. \n\nIdeal para:\n- Mantenerte fresca todo el día con \"Acción Fresh Dry\"\n- Cuidarte y proteger tus axilas con dermo-acondicionadores.\n- Para Mujeres. \n\n*Protección desodorante\n*Acción Antitranspirante  \n\n  Modo de Empleo:  \n Quitar el sello de seguridad.\nGirar el tornillo y aplicar una cantidad su?ciente sobre las axilas, esparcir uniformemente y dejar secar.\nTapar bien después de usar.  \n\n  Beneficios:  \n Ideal para:\n- Mantenerte fresca todo el día con \"Acción Fresh Dry\"\n- Cuidarte y proteger tus axilas con dermo-acondicionadores.\n- Para Mujeres.",
+      "descripcion": "Utiliza el Antitranspirante Speed Stick Clinical Dry para que realices tus actividades cotidianas sin preocuparte por la sudoración y el mal olor que ocasiona. Este desodorante tiene una fórmula hipoalergénica ideal para todo tipo de piel, te mantendrá seco y fresco durante 72 horas. Speed Stick Clinical tampoco dejará manchas blancas en tu piel durante su uso. Speed Stick tiene una práctica presentación en crema de 30 g, para que lo lleves contigo dentro de tu mochila y puedas utilizarlo cuando lo necesites.",
       "principio_activo": "0 NO CODIFICADO 0"
     },
     "7702029683716": {
@@ -21230,10 +21238,10 @@
     },
     "7702037530460": {
       "ultima_consulta": "2026-07-06",
-      "precio": 18900.0,
+      "precio": 27200.0,
       "metodo_match": "texto",
       "disponible": true,
-      "principio_activo": "0 NO CODIFICADO 0"
+      "principio_activo": "CLORURO DE BENZALCONIO"
     },
     "7702037915090": {
       "ultima_consulta": "2026-07-06",
@@ -21335,10 +21343,10 @@
     },
     "7702045212464": {
       "ultima_consulta": "2026-07-06",
-      "precio": 1390.0,
+      "precio": 4000.0,
       "metodo_match": "texto",
       "disponible": true,
-      "descripcion": "Descripción:  \n Desodorante Balance Crema Clinical Care Mujer 18 Und x 9 Gr\nEl desodorante Balance Clinical Care con fórmula avanzada 96h* Active Technology combina el máximo desempeño ** clínico y fragancias Deo-Activas que controlan el mal olor, brindándote protección de larga duración mientras cuida tu piel.\nClínicamente probado. \n\nIdeal para:\n- Mantenerte fresca todo el día con \"Acción Fresh Dry\"\n- Cuidarte y proteger tus axilas con dermo-acondicionadores.\n- Para Mujeres. \n\n*Protección desodorante\n*Acción Antitranspirante  \n\n  Modo de Empleo:  \n Quitar el sello de seguridad.\nGirar el tornillo y aplicar una cantidad su?ciente sobre las axilas, esparcir uniformemente y dejar secar.\nTapar bien después de usar.  \n\n  Beneficios:  \n Ideal para:\n- Mantenerte fresca todo el día con \"Acción Fresh Dry\"\n- Cuidarte y proteger tus axilas con dermo-acondicionadores.\n- Para Mujeres.",
+      "descripcion": "Utiliza el Antitranspirante Speed Stick Clinical Dry para que realices tus actividades cotidianas sin preocuparte por la sudoración y el mal olor que ocasiona. Este desodorante tiene una fórmula hipoalergénica ideal para todo tipo de piel, te mantendrá seco y fresco durante 72 horas. Speed Stick Clinical tampoco dejará manchas blancas en tu piel durante su uso. Speed Stick tiene una práctica presentación en crema de 30 g, para que lo lleves contigo dentro de tu mochila y puedas utilizarlo cuando lo necesites.",
       "principio_activo": "0 NO CODIFICADO 0"
     },
     "7702045278309": {
@@ -21941,7 +21949,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 12900.0,
       "metodo_match": "texto",
-      "disponible": true,
+      "disponible": false,
       "descripcion": "Descripción:  \n TINTE COLORISS RUBIO MEDIANO 7 KIT UND X 1 UND\nNuestro Kit Coloriss es el producto perfecto para todas las etapas del proceso de coloración: pre-color, color y post-color. Somos la opción ideal para cambiar de look, porque contamos con el kit más completo del mercado, el cual te dará la mejor experiencia en tu proceso de coloración, brindándote un 100% de cubrimiento de canas. Contamos con una fórmula especializada, en la que empleamos los mejores ingredientes para el cuidado de tu cuero cabelludo y fibra capilar.\n** PROTÍENA DE ARROZ, Ingrediente perfecto como acondicionador natural y fuente de hidratación para nuestro cabello.\n** EXTRACTO DE AGUACATE, Su composición basada en ácidos grasos le regala a nuestra cabellera un fortalecimiento intensivo y volumen.\n** KERATINA, Proteína que ayuda a que nuestra cabellera recupere vitalidad, sedosidad y tenga una correcta hidratación.\n** ACEITE DE COCO, Aceite vegetal que contiene ácidos saturados que tiene un efecto reparador, revitalizante y protector en el cabello.  \n\n  Modo de Empleo:  \n Nuestro Kit Coloriss es el producto perfecto para todas las etapas del proceso de coloración: pre-color, color y post-color. Somos la opción ideal para cambiar de look, porque contamos con el kit más completo del mercado, el cual te dará la mejor experiencia en tu proceso de coloración, brindándote un 100% de cubrimiento de canas. Contamos con una fórmula especializada, en la que empleamos los mejores ingredientes para el cuidado de tu cuero cabelludo y fibra capilar.\n** PROTÍENA DE ARROZ, Ingrediente perfecto como acondicionador natural y fuente de hidratación para nuestro cabello.\n** EXTRACTO DE AGUACATE, Su composición basada en ácidos grasos le regala a nuestra cabellera un fortalecimiento intensivo y volumen.\n** KERATINA, Proteína que ayuda a que nuestra cabellera recupere vitalidad, sedosidad y tenga una correcta hidratación.\n** ACEITE DE COCO, Aceite vegetal que contiene ácidos saturados que tiene un efecto reparador, revitalizante y protector en el cabello.",
       "principio_activo": "0 NO CODIFICADO 0"
     },
@@ -22036,7 +22044,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 45600.0,
       "metodo_match": "ean",
-      "disponible": true,
+      "disponible": false,
       "descripcion": "Bloqueador Tanga Facial SPF 60 X50 ml, es un producto con un sistema de Muy Alta Protección que aumenta 60 veces la capacidad de defensa natural de la piel a los rayos del sol. Te brinda protección a los rayos UVB, UVA y los efectos de la Luz Azul y Luz Infraroja, ayudando a prevenir la aparición de manchas y el envejecimiento prematuro facial a causa de la radiación solar. Enriquecido con activos antioxidantes: Vitamina E, Coenzima Q10 y activo humectante: Ácido Hialurónico, para ayudar a proteger diariamente la piel de tu rostro. Modo de uso Aplique antes de exponerse al sol, uniforme y generosamente en el rostro y cuello. Reaplique el producto: luego de nadar, cada que ha frotado la piel con alguna toalla, cuando extienda su tiempo de exposición al sol, si ha estado prolongadamente en el agua o si ha presentado alta sudoración. Es necesario repetir con frecuencia la aplicación para mantener su efectividad. Puede ser aplicado diariamente bajo el maquillaje. Advertencias Evite el contacto con los ojos. Suspenda su uso si observa alguna reacción desfavorable, algún signo de irritación o condición anormal. Manténgase fuera del alcance de los niños. No aplique en bebés. Evite el intenso sol del mediodía entre las 11 a.m. y las 3 p.m. Evite el contacto con los textiles. Exclusivamente para uso externo. Se garantiza su eficacia si se siguen las instrucciones y se ha tenido en cuenta el SPF adecuado a cada tipo de piel."
     },
     "7702113043396": {
@@ -22048,9 +22056,10 @@
     },
     "7702113043594": {
       "ultima_consulta": "2026-07-06",
-      "precio": 16200.0,
+      "precio": 12600.0,
       "metodo_match": "texto",
-      "disponible": true
+      "disponible": true,
+      "descripcion": "El Agua Micelar todo en 1 es la forma más fácil de desmaquillar, limpiar y tonificar todo el rostro (cara, ojos, labios) en un solo gesto y sin aclarado. Una tecnología inicialmente utilizada en productos farmacéuticos, con micelas que actúan como imanes para eliminar la suciedad, el maquillaje y el sebo de la piel."
     },
     "7702113043617": {
       "ultima_consulta": "2026-07-06",
@@ -22071,10 +22080,10 @@
     },
     "7702113047783": {
       "ultima_consulta": "2026-07-06",
-      "precio": 52900.0,
+      "precio": 117700.0,
       "metodo_match": "texto",
       "disponible": true,
-      "descripcion": "Descripción:  \n PROTECTOR SOLAR FACIL NUDE SPF60 fluido SIN COLOR FRASCO X 50 ML\nNUDE Protector Solar Facial SPF 60 Fluido sin Color ofrece una protección avanzada y ultraligera contra los rayos solares, ideal para el cuidado diario de la piel. Su fórmula es hipoalergénica, no comedogénica y no irrita los ojos, lo que lo hace perfecto para todo tipo de piel, incluidas las mixtas y grasas.\n\nCon una textura acuosa de rápida absorción, proporciona una sensación fresca y ligera, sin dejar residuos ni brillo. Enriquecido con prebióticos, ayuda a nutrir y equilibrar la microbiota cutánea, mientras que sus ingredientes controlan el exceso de grasa. Además, está libre de aceite mineral y alcohol etílico, cuidando tu piel de manera suave y eficaz.\n\nDermatológicamente probado, hipoalergénico y oftalmológicamente testado, este protector solar ofrece un acabado invisible sin dejar residuos blancos.\nFluido de fácil aplicación, absorción, el contenido es transparente.  \n\n  Modo de Empleo:  \n Aplica protector solar diariamente después de la limpieza e hidratación, cubriendo toda la piel expuesta (rostro, orejas, cuello y manos). Distribuye con toques suaves para facilitar la absorción, evitando movimientos circulares. Deja que se absorba antes de maquillarte y reaplica cada 2 horas o según necesidad, especialmente después de nadar o sudar, incluso en días nublados. Esto protege contra los rayos UV, previniendo el envejecimiento prematuro y enfermedades de la piel.  \n\n  Beneficios:  \n PROTECTOR SOLAR FACIAL FLUIDO INVISIBLE SPF 60.\n\nDermatológicamente, hipoalergénico y oftalmológicamente probado, no comedogénico.\n\nCon prebióticos que restauran la barrera protectora de la piel y ayudan a controlar el exceso de grasa.\n\nPara todo tipo de piel, incluyendo pieles mixtas y grasas.\n\nAcabado invisible, Para todo tipo de piel sin dejar residuos blancos.  \n\n  Advertencias:  \n No Usar en caso de generar irritación, suspender inmediatamente.  \n\n  Recomendaciones:  \n DEJA QUE SE ABSORBA ANTES DE MAQUILLARTE Y REAPLICA CADA 2 HORAS O SEGÚN NECESIDAD"
+      "descripcion": "La Roche Posay Protector Solar Facial Anthelios Uvmune 400 Oil Control Fluido Spf50+ 50Ml\r\nHace parte de la nueva generación de protectores solares con filtro Mexoryl 400, que protege de los rayos UV con mayor incidencia (hasta 400nm) y contiene la tecnología Oil Control que absorbe de inmediato el exceso de sebo y deja un acabado mate. Especial para piel mixta a grasa. Textura fluida \r\nModo de uso:\r\nDistribuir uniformemente en todo el rostro, cuello y escote. Aplicar 30 minutos antes de la exposición solar y re aplicar cada dos horas para mantener la alta protección\r\nBeneficios:\r\nApto para piel mixta a grasa Efecto Mate todo el día. Protección muy alta, amplia y fotestable contra rayos UVA/UVB.Airlicium: Absorbe 100 veces su peso en sebo y sudor, Complejo de antioxidantes: .\r\nCaracterísticas:\r\nProtector solar para piel mixta a grasa. Alta protección sin dejar marcas blancas. Efecto mate todo el día. Textura fluida"
     },
     "7702113049749": {
       "ultima_consulta": "2026-07-06",
@@ -22085,9 +22094,10 @@
     },
     "7702113050554": {
       "ultima_consulta": "2026-07-06",
-      "precio": 91300.0,
+      "precio": 98700.0,
       "metodo_match": "texto",
-      "disponible": true
+      "disponible": true,
+      "descripcion": "Cicatricure \r\n     \r\n \r\n\r\n \r\n     \r\n         \r\n             \r\n                 \r\n                     \r\n                 \r\n             \r\n         \r\n\r\n         \r\n             \r\n                 \r\n                     \r\n                         \r\n                         \r\n                     \r\n                 \r\n             \r\n         \r\n         \r\n             \r\n                 Conoce más de nuestra línea de productos \r\n                 \r\n                     \r\n                         \r\n                             \r\n                             Cicatricure Crema Dia \r\n                             Favorece la recuperación de la densidad y la ELASTICIDAD de la piel, corrigiendo\r\n                                visiblemente las zonas del rostro marcadas por la edad. Brinda PROTECCIÓN contra la\r\n                                RADIACIÓN UV; FPS 30 Y FPS UVA 10. Textura no grasa. Dermatológicamente testeado.\r\n                             \r\n                             COMPRAR \r\n                         \r\n                     \r\n                     \r\n                         \r\n                             \r\n                             Cicatricure Crema Noche \r\n                             Favorece la recuperación de ELASTICIDAD y el proceso de AUTO REPARACIÓN.\r\n                                NOCTURNA de la piel. Actúa en la noche creando una lámina que regula la pérdida de agua.\r\n                                Textura Sedosa, Mejora la HIDRATACIÓN y la apariencia de la piel. Aplicar en la cara\r\n                                cuello y escote.\r\n                             \r\n                             COMPRAR \r\n                         \r\n                     \r\n                     \r\n                         \r\n                             \r\n                             Cicatricure Crema Duo \r\n                             Crema actúa REDUCIENDO el tamaño de las ARRUGAS PERIOCULARES y las conocidas CÓDIGO DE\r\n                                BARRA en solo 6 Semanas. Aplica en el contorno de OJOS Y BOCA. Dermatológicamente\r\n                                testeado.\r\n                             \r\n                             COMPRAR \r\n                         \r\n                     \r\n\r\n                     \r\n                         \r\n                             \r\n                             Cicatricure Serum Facial \r\n                             El nuevo Serúm Facial actúa sobre arrugas gravitacionales y líneas de expresión. Siente\r\n                                al instante su EFECTO TENSOR, mejora la ELASTICIDAD y HUMECTACIÓN de la piel y conforme\r\n                                pasan los días, INCREMENTA la FIRMEZA, dando como resultado un rostro más definido.\r\n                             \r\n                             COMPRAR"
     },
     "7702113050707": {
       "ultima_consulta": "2026-07-06",
@@ -22216,7 +22226,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 84500.0,
       "metodo_match": "ean",
-      "disponible": true,
+      "disponible": false,
       "descripcion": "Caltrate Caltrate 600+D CON 400 UI de Vitamina D, ayuda a prevenir la Osteoporosis x 60 Tabletas",
       "principio_activo": "CALCIO"
     },
@@ -22602,7 +22612,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 22200.0,
       "metodo_match": "ean",
-      "disponible": true
+      "disponible": false
     },
     "7702314501800": {
       "ultima_consulta": "2026-07-06",
@@ -22930,7 +22940,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 16800.0,
       "metodo_match": "ean",
-      "disponible": true,
+      "disponible": false,
       "principio_activo": "FLUCONAZOL"
     },
     "7702605102358": {
@@ -22955,7 +22965,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 5320.0,
       "metodo_match": "ean",
-      "disponible": true,
+      "disponible": false,
       "principio_activo": "ACETAMINOFEN, FENILEFRINA CLORHIDRATO, CETIRIZINA DICLORHIDRATO"
     },
     "7702605108367": {
@@ -22966,7 +22976,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 69800.0,
       "metodo_match": "ean",
-      "disponible": true,
+      "disponible": false,
       "principio_activo": "TRAMADOL, ACETAMINOFEN"
     },
     "7702605111589": {
@@ -23603,7 +23613,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 286800.0,
       "metodo_match": "ean",
-      "disponible": true,
+      "disponible": false,
       "principio_activo": "SERTRALINA"
     },
     "7703286109858": {
@@ -23618,7 +23628,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 92300.0,
       "metodo_match": "texto",
-      "disponible": true,
+      "disponible": false,
       "principio_activo": "VITAMINA E, OMEGA"
     },
     "7703286116955": {
@@ -23642,10 +23652,11 @@
     },
     "7703286123106": {
       "ultima_consulta": "2026-07-06",
-      "precio": 92300.0,
+      "precio": 97900.0,
       "metodo_match": "texto",
       "disponible": true,
-      "principio_activo": "VITAMINA E, OMEGA"
+      "principio_activo": "0 NO CODIFICADO 0",
+      "descripcion": "Suplemento dietario con probióticos, prebióticos , zinc, potasio, sodio y glucosa. \r\n Entero-Balance® es es un exclusivo simbiótico con zinc y electrolitos, que combate la \r\n diarrea y previene la disbiosis intestinal \r\n • Está compuesto por está compuesto por la cepa probiótica Lactobacillus rhamnosus GG \r\n con 10 billones de unidades formadoras de colonias (UFCs) + fibra prebiótica (FOS) + \r\n 10mg Zinc + electrolitos"
     },
     "7703332003604": {
       "ultima_consulta": "2026-07-06",
@@ -23707,10 +23718,10 @@
     },
     "7703432423906": {
       "ultima_consulta": "2026-07-06",
-      "precio": 26600.0,
+      "precio": 9400.0,
       "metodo_match": "texto",
       "disponible": true,
-      "principio_activo": "HIOSCINA"
+      "principio_activo": "N-BUTILBROMURO DE HIOSCINA"
     },
     "7703445109040": {
       "ultima_consulta": "2026-07-06",
@@ -23735,7 +23746,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 103300.0,
       "metodo_match": "ean",
-      "disponible": true,
+      "disponible": false,
       "principio_activo": "SIMETICONA, PANCREATINA"
     },
     "7703454123693": {
@@ -23876,7 +23887,7 @@
     },
     "7703546761383": {
       "ultima_consulta": "2026-07-06",
-      "precio": 16800.0,
+      "precio": 17300.0,
       "metodo_match": "texto",
       "disponible": true,
       "principio_activo": "FLUCONAZOL"
@@ -24057,17 +24068,17 @@
     },
     "7703712035966": {
       "ultima_consulta": "2026-07-06",
-      "precio": 26600.0,
+      "precio": 9400.0,
       "metodo_match": "texto",
       "disponible": true,
-      "principio_activo": "HIOSCINA"
+      "principio_activo": "N-BUTILBROMURO DE HIOSCINA"
     },
     "7703763001682": {
       "ultima_consulta": "2026-07-06",
-      "precio": 10100.0,
+      "precio": 9400.0,
       "metodo_match": "texto",
       "disponible": true,
-      "principio_activo": "RISPERIDONA"
+      "principio_activo": "N-BUTILBROMURO DE HIOSCINA"
     },
     "7703763050727": {
       "ultima_consulta": "2026-07-06",
@@ -24101,7 +24112,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 25600.0,
       "metodo_match": "ean",
-      "disponible": true,
+      "disponible": false,
       "principio_activo": "METOCARBAMOL"
     },
     "7703763393107": {
@@ -24364,10 +24375,10 @@
     },
     "7704412143500": {
       "ultima_consulta": "2026-07-06",
-      "precio": 9800.0,
+      "precio": 5000.0,
       "metodo_match": "texto",
       "disponible": true,
-      "principio_activo": "CIPROFIBRATO TAB CAP"
+      "principio_activo": "TRAMADOL"
     },
     "7704412152847": {
       "ultima_consulta": "2026-07-06",
@@ -24409,7 +24420,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 66100.0,
       "metodo_match": "ean",
-      "disponible": true,
+      "disponible": false,
       "principio_activo": "METHISOPRINOL"
     },
     "7704588002076": {
@@ -24471,7 +24482,7 @@
     },
     "7704768003138": {
       "ultima_consulta": "2026-07-06",
-      "precio": 16800.0,
+      "precio": 17300.0,
       "metodo_match": "texto",
       "disponible": true,
       "principio_activo": "FLUCONAZOL"
@@ -24818,7 +24829,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 74020.0,
       "metodo_match": "ean",
-      "disponible": true,
+      "disponible": false,
       "principio_activo": "DEFLAZACORT TAB -CAP"
     },
     "7706309000606": {
@@ -25131,10 +25142,10 @@
     },
     "7707145300974": {
       "ultima_consulta": "2026-07-06",
-      "precio": 1120.0,
+      "precio": 1200.0,
       "metodo_match": "texto",
       "disponible": true,
-      "principio_activo": "0 NO CODIFICADO 0"
+      "principio_activo": "SULFATO DE MAGNESIA"
     },
     "7707145300998": {
       "ultima_consulta": "2026-07-06",
@@ -25221,7 +25232,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 7800.0,
       "metodo_match": "ean",
-      "disponible": true,
+      "disponible": false,
       "principio_activo": "BISACODILO"
     },
     "7707177972118": {
@@ -25230,10 +25241,10 @@
     },
     "7707177972125": {
       "ultima_consulta": "2026-07-06",
-      "precio": 9800.0,
+      "precio": 5000.0,
       "metodo_match": "texto",
       "disponible": true,
-      "principio_activo": "CIPROFIBRATO TAB CAP"
+      "principio_activo": "TRAMADOL"
     },
     "7707177973122": {
       "ultima_consulta": "2026-07-06",
@@ -25286,15 +25297,16 @@
       "ultima_consulta": "2026-07-06",
       "precio": 204700.0,
       "metodo_match": "ean",
-      "disponible": true,
+      "disponible": false,
       "principio_activo": "TETRACICLINA"
     },
     "7707186270243": {
       "ultima_consulta": "2026-07-06",
-      "precio": 9400.0,
+      "precio": 8160.0,
       "metodo_match": "texto",
       "disponible": true,
-      "principio_activo": "ACIDO ASCORBICO"
+      "principio_activo": "ACIDO ASCORBICO",
+      "descripcion": "La mascarilla nutritiva capilar con AMINOÁCIDOS de Color-1, repara el cabello dañado, dejándolo liso y suave con una exquisita fragancia.\r\nLos aminoácidos refuerzan la estructura del exterior, mejorando la textura, fuerza y apariencia del cabello.\r\nModo de uso\r\nDespués de lavar el cabello con shampoo Color-\r\nAplica la cantidad deseada sobre tu cabello desde la raíz hacía las puntas. Masajea durante 2-3 minutos y enjuaga con suficiente agua hasta retirar completamente\r\nBeneficios\r\nRecupera el cabello dañado\r\nDisminuye el frizz\r\nLiso en 10 segundos\r\nCaracterísticas\r\nFormula avanzada\r\nContiene 15 aminoácidos\r\nSuave y liso en 10 segundos\r\nExquisita fraganciaAdvertencias\r\nSólo para uso externo.\r\nManténgase fuera del alcance de los niños.\r\nEn caso de contacto con los ojos, enjuague inmediatamente con abundante agua.\r\nDescontinue su uso en caso de enrojecimiento o irritaciones."
     },
     "7707186270502": {
       "ultima_consulta": "2026-07-06",
@@ -25372,7 +25384,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 70810.0,
       "metodo_match": "ean",
-      "disponible": true,
+      "disponible": false,
       "principio_activo": "0 NO CODIFICADO 0"
     },
     "7707206270154": {
@@ -25408,7 +25420,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 128510.0,
       "metodo_match": "ean",
-      "disponible": true,
+      "disponible": false,
       "principio_activo": "0 NO CODIFICADO 0"
     },
     "7707206420986": {
@@ -25446,7 +25458,7 @@
     },
     "7707211631438": {
       "ultima_consulta": "2026-07-06",
-      "precio": 27500.0,
+      "precio": 29600.0,
       "metodo_match": "texto",
       "disponible": true,
       "descripcion": "Café buen día descafeinado es elabora con café arábigo 100% colombiano y agua natural, se obtiene de una materia prima que ha sido previamente  descafeinada. Un café exquisito que se caracteriza por su sabor ligeramente dulce y con menos matiz de amargo que el café liofilizado clásico. Sin los efectos estimulantes de la cafeína, permite disfrutar de un delicioso café a quienes presentan sensibilidad a esta. Este proceso no elimina los inigualables atributos de nuestra marca."
@@ -25535,9 +25547,10 @@
     },
     "7707228362264": {
       "ultima_consulta": "2026-07-06",
-      "precio": 5520.0,
+      "precio": 22000.0,
       "metodo_match": "texto",
-      "disponible": true
+      "disponible": true,
+      "principio_activo": "0 NO CODIFICADO 0"
     },
     "7707228362585": {
       "ultima_consulta": "2026-07-06",
@@ -25573,7 +25586,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 5520.0,
       "metodo_match": "ean",
-      "disponible": true,
+      "disponible": false,
       "principio_activo": "0 NO CODIFICADO 0"
     },
     "7707228365739": {
@@ -25884,7 +25897,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 30240.0,
       "metodo_match": "ean",
-      "disponible": true,
+      "disponible": false,
       "principio_activo": "NAFAZOLINA"
     },
     "7707237630026": {
@@ -26015,7 +26028,7 @@
     },
     "7707265996125": {
       "ultima_consulta": "2026-07-06",
-      "precio": 11900.0,
+      "precio": 4500.0,
       "metodo_match": "texto",
       "disponible": true,
       "descripcion": "Brinda 48 h de protección. Su fórmula con Motionsense,  mientras más te mueves más te protege, extracto de bamboo y hojas verdes, te mantiene protegida durante todo el día.",
@@ -26062,10 +26075,10 @@
     },
     "7707270700908": {
       "ultima_consulta": "2026-07-06",
-      "precio": 86200.0,
+      "precio": 104400.0,
       "metodo_match": "texto",
       "disponible": true,
-      "principio_activo": "SIMETICONA"
+      "principio_activo": "ALGINATO DE SODIO, BICARBONATO DE SODIO, CARBONATO CALCIO"
     },
     "7707271451120": {
       "ultima_consulta": "2026-07-06",
@@ -26575,7 +26588,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 105700.0,
       "metodo_match": "texto",
-      "disponible": true,
+      "disponible": false,
       "descripcion": "Urocran es una línea de complementos alimenticios y fitoterapéuticos diseñados para prevenir y tratar infecciones urinarias (cistitis) recurrentes, actuando mediante la inhibición de la adhesión de E. coli al tracto urinario. Sus fórmulas combinan arándano rojo (PAC Tipo A), D-manosa, probióticos y zinc, disponibles en cápsulas o sobres (Forte) para mejorar la flora y el sistema inmune.",
       "principio_activo": "VACCINIUM MACROCARPON"
     },
@@ -26629,7 +26642,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 85800.0,
       "metodo_match": "ean",
-      "disponible": true,
+      "disponible": false,
       "principio_activo": "FENOFIBRATO TAB-CAP"
     },
     "7707355054100": {
@@ -26912,7 +26925,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 209400.0,
       "metodo_match": "ean",
-      "disponible": true,
+      "disponible": false,
       "principio_activo": "VITAMINAS"
     },
     "7707670343323": {
@@ -27026,7 +27039,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 38200.0,
       "metodo_match": "texto",
-      "disponible": true,
+      "disponible": false,
       "descripcion": "ENJUAGUE BUCAL CLORHEXIDINA DOLPACK PLUS 0.2% 180 ML \r\nFRASCO X 180ML\r\nRevolución en el Cuidado Bucal Dolpack PLUS: Tu Aliado Contra los Problemas de inflamación en la boca.\r\nCansado de encías o garganta sensibles, rojas o sangrantes Descubre Dolpack PLUS\r\nPoder Dual que Transforma tu Salud Bucal\r\n•\tTecnología DUAL ACTION: Combina Clorhexidina y Cetilpiridinio para una protección sin igual.\r\n•\tDoble Poder Antiséptico: Ataca bacterias dañinas por hasta 4 horas continuas.\r\n•\tEficacia Comprobada: Contra bacterias gram+ y gram-, aerobios, anaerobios, e incluso hongos\r\nBeneficios que Amarás\r\n* Combate encías inflamadas y sangrantes * Previene infecciones bucales y de garganta * Elimina la placa bacteriana persistente * Deja un aliento fresco y duradero.\r\nPor Qué Elegir Dolpack PLUS\r\n1.\tFórmula Única: Desarrollada por expertos para máxima efectividad.\r\n2.\tProtección Prolongada: Sigue actuando horas después del enjuague.\r\n3.\tSabor Refrescante: Disfruta de una sensación de frescura incomparable.\r\nOferta Especial\r\nLlevate ahora tu Dolpack PLUS Enjuague Bucal de 180 ml y recibe GRATIS una seda dental de alta calidad.\r\nNo esperes más Transforma tu rutina de higiene bucal y recupera la confianza en tu sonrisa. Dolpack PLUS: La solución completa que tus encías estaban esperando.\r\nConsulta a tu odontólogo para más información. Dolpack PLUS, cuidado experto para una boca saludable.\r\nModo de uso:\r\nTres veces al día, después del cepillado, vierta 5mL del enjuague sin diluir con ayuda de la copa medidora y enjuague durante 1 minuto. No ingiera el producto. No enjuague con agua. No consuma alimentos \r\nBeneficios:\r\n* Combate encías inflamadas y sangrantes \r\n* Previene infecciones bucales y de garganta \r\n* Elimina la placa bacteriana persistente \r\n* Deja un aliento fresco y duradero.\r\nCaracterísticas:\r\nPoder Dual que Transforma tu Salud Bucal\r\n•\tTecnología DUAL ACTION: Combina Clorhexidina 0,20% y Cetilpiridinio 0,07% para una protección sin igual.\r\n•\tDoble Poder Antiséptico: Ataca bacterias dañinas por hasta 4 horas continuas.\r\n•\tEficacia Comprobada: Contra bacterias gram+ y gram-, aerobios, anaerobios, e incluso hongos\r\nAdvertencias:\r\nUso exclusivo en la cavidad bucal. En caso de observar cualquier reacción  desfavorable suspenda su uso. No ingerir. Manténgase fuera del alcance de los  niños. En menores de 12 años solo se debe utilizar por recomendación de un  profesional de la salud. Hipersensibilidad o alergia a cualquiera de sus  componentes. Usar de acuerdo a indicaciones dadas por su odontólogo."
     },
     "7708636936719": {
@@ -27058,7 +27071,7 @@
     },
     "7708682913658": {
       "ultima_consulta": "2026-07-06",
-      "precio": 11200.0,
+      "precio": 17100.0,
       "metodo_match": "texto",
       "disponible": true
     },
@@ -27184,7 +27197,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 59400.0,
       "metodo_match": "texto",
-      "disponible": true,
+      "disponible": false,
       "principio_activo": "FENITOINA"
     },
     "7709170422454": {
@@ -27710,7 +27723,7 @@
     },
     "7891024030806": {
       "ultima_consulta": "2026-07-06",
-      "precio": 16200.0,
+      "precio": 12150.0,
       "metodo_match": "ean",
       "disponible": true,
       "descripcion": "Enjuague Bucal Colgate Plax Kids Minions 250mlHaz que la rutina de higiene bucal de tus hijos sea divertida con el enjuague bucal niños sin alcohol Colgate Minions, recomendado para niños a partir de los 6 años. Su fórmula con flúor proporciona una protección duradera contra la caries dental para una boca sana.  Este enjuague bucal para niños deja la boca de tus hijos con un aliento fresco con sabor a Tutti Frutti. Ideal para una buena limpieza oral.  Completa el cuidado de los dientes de tus hijos con el enjuague Colgate Minions, el mejor aliado para la salud bucal en niños.</t"
@@ -27931,16 +27944,16 @@
     },
     "8410412100304": {
       "ultima_consulta": "2026-07-06",
-      "precio": 40700.0,
+      "precio": 43200.0,
       "metodo_match": "texto",
       "disponible": true,
-      "descripcion": "Crema Facial Glycolic Acid x 50 ml LA CREMA FACIAL GLYCOLIC ACID DE BABARIA RENUEVA Y REGENERA LA PIEL, CON EFECTO ANTIEDAD. ADEMÁS, SU CONTENIDO EN BISABOLOL, EXTRACTO DE RAÍZ DE JENGIBRE, ESTEROLES Y VITAMINA E, CALMA Y PREVIENE IRRITACIONES, FORTALECE LA BARRERA CUTÁNEA Y PROPORCIONA UNA PROFUNDA HIDRATACIÓN Y EFECTO ANTIOXIDANTE. LA ENCAPSULACIÓN DEL ÁCIDO GLICÓLICO EN LIPOSOMAS FAVORECE LA PENETRACIÓN Y EFICACIA DEL ACTIVO."
+      "descripcion": "Descripción:  \n CREMA FACIAL VITAMINA C babaria.\nCREMA FACIAL VITAMINA C 50 ML Esta crema Facial ha sido diseñada utilizando la combinación de un activo innovador derivado de la Vitamina C y la Vitamina E, Efecto antiedad , Reduce las manchas ,Antioxidante ,Doble protección urbana frente a luz azul y polución. Textura fresca y ligera . Absorción rápida Apto para todo tipo de pieles Antioxidante, ilumina el rostro, estimula la síntesis del colágeno. \nActivo derivado de la Vitamina C, Vitamina E, Squalano y Filtro Solar.  \n\n  Modo de Empleo:  \n Recomendada para todas las edades y para todo tipo de pieles . Uso mañana y noche. Aplicar y distribuir por el rostro hasta su completa absorción.  \n\n  Beneficios:  \n LUMINOSIDAD Antioxidante, ilumina el rostro, estimula la síntesis del colágeno.  \n\n  Advertencias:  \n NINGUNA"
     },
     "8410412100939": {
       "ultima_consulta": "2026-07-06",
       "precio": 59400.0,
       "metodo_match": "texto",
-      "disponible": true,
+      "disponible": false,
       "descripcion": "Descripción:  \n CONTORNO DE OJOS BTOXEFFECT BABARIA TOTALIFT\nCONTORNO OJOS EYE & ROLLON BTOX Ingredientes de origen natural, contiene Tripéptido Botox Like y Ácido Hialurónico. Nueva promesa global de prevención de arrugas. La bolita de acero, ayuda a descongestionar las bolsas y ojeras. Eficacia frente a las arrugas de expresion, patas de gallo, arrugas nasolabiales y arrugas marioneta Efecto Inmediato Antiedad global Suaviza las arrugas Relaja la mirada  \n\n  Modo de Empleo:  \n uso diario, aplicar directamente el roll-on (bolita de acero), sobre el contorno de los ojos, ayudar a la absorción con suaves masajes, y completar el tratamiento con pequeños golpecitos.  \n\n  Beneficios:  \n Efecto Inmediato Antiedad global Suaviza las arrugas Relaja la mirada.\ntesteado dermatologica e oftalmologicamente  \n\n  Advertencias:  \n Ninguna"
     },
     "8410412130141": {
@@ -27970,7 +27983,7 @@
       "ultima_consulta": "2026-07-06",
       "precio": 35000.0,
       "metodo_match": "texto",
-      "disponible": true,
+      "disponible": false,
       "descripcion": "Descripción:  \n GEL LIMPIADOR FACIAL BABARIA ACIDO HIALURONICO \nGEL LIMPIADOR ACIDO HIALURONICO , textura gel producto 100% vegano Limpia e Hidrata , Desmaquilla , Tonifica Ingredientes de origen natural , testeado dermatologicamente Principio activo : Ácido Hialurónico Niacinamida.\nDesde la primera aplicación verás tu piel más hidratada, suave y luminosa.  \n\n  Modo de Empleo:  \n Utilizar mañana y noche , masajeando cuidadosamente sobre el rostro húmedo y enjuagar. para todo tipo de pieles.  \n\n  Beneficios:  \n PIEL HIDRATADA Limpia e Hidrata , desmaquilla . gracias a la Niacinamide conseguimos purificar los poros.  \n\n  Advertencias:  \n NINGUNA"
     },
     "8410412490146": {
@@ -27982,10 +27995,10 @@
     },
     "8410412518932": {
       "ultima_consulta": "2026-07-06",
-      "precio": 40700.0,
+      "precio": 43200.0,
       "metodo_match": "texto",
       "disponible": true,
-      "descripcion": "Crema Facial Glycolic Acid x 50 ml LA CREMA FACIAL GLYCOLIC ACID DE BABARIA RENUEVA Y REGENERA LA PIEL, CON EFECTO ANTIEDAD. ADEMÁS, SU CONTENIDO EN BISABOLOL, EXTRACTO DE RAÍZ DE JENGIBRE, ESTEROLES Y VITAMINA E, CALMA Y PREVIENE IRRITACIONES, FORTALECE LA BARRERA CUTÁNEA Y PROPORCIONA UNA PROFUNDA HIDRATACIÓN Y EFECTO ANTIOXIDANTE. LA ENCAPSULACIÓN DEL ÁCIDO GLICÓLICO EN LIPOSOMAS FAVORECE LA PENETRACIÓN Y EFICACIA DEL ACTIVO."
+      "descripcion": "Descripción:  \n CREMA FACIAL VITAMINA C babaria.\nCREMA FACIAL VITAMINA C 50 ML Esta crema Facial ha sido diseñada utilizando la combinación de un activo innovador derivado de la Vitamina C y la Vitamina E, Efecto antiedad , Reduce las manchas ,Antioxidante ,Doble protección urbana frente a luz azul y polución. Textura fresca y ligera . Absorción rápida Apto para todo tipo de pieles Antioxidante, ilumina el rostro, estimula la síntesis del colágeno. \nActivo derivado de la Vitamina C, Vitamina E, Squalano y Filtro Solar.  \n\n  Modo de Empleo:  \n Recomendada para todas las edades y para todo tipo de pieles . Uso mañana y noche. Aplicar y distribuir por el rostro hasta su completa absorción.  \n\n  Beneficios:  \n LUMINOSIDAD Antioxidante, ilumina el rostro, estimula la síntesis del colágeno.  \n\n  Advertencias:  \n NINGUNA"
     },
     "8410412519724": {
       "ultima_consulta": "2026-07-06",
@@ -28292,6 +28305,27 @@
       "metodo_match": "ean",
       "disponible": true,
       "principio_activo": "0 NO CODIFICADO 0"
+    },
+    "7707342220112": {
+      "ultima_consulta": "2026-07-06",
+      "disponible": false
+    },
+    "7707355400570": {
+      "ultima_consulta": "2026-07-06",
+      "disponible": false
+    },
+    "7708957106280": {
+      "ultima_consulta": "2026-07-06",
+      "precio": 4600.0,
+      "metodo_match": "texto",
+      "disponible": true
+    },
+    "7709484810886": {
+      "ultima_consulta": "2026-07-06",
+      "precio": 6400.0,
+      "metodo_match": "texto",
+      "disponible": true,
+      "principio_activo": "HIDROCLOROTIAZIDA"
     }
   }
 }
